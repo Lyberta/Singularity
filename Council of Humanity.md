@@ -8,20 +8,19 @@
 * Former psychotherapist.
 * Author of TODO
 
-* Website: https://wildtruth.net/
-* YouTube channel: http://www.youtube.com/@dmackler58
+* Website: [link](https://wildtruth.net/)
+* YouTube: [link](http://www.youtube.com/@dmackler58)
 
 ### [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
 
 * Website: https://drgabormate.com/
-
 
 ### [Bessel van der Kolk](https://en.wikipedia.org/wiki/Bessel_van_der_Kolk)
 
 * Psychiatrist, author, researcher and educator.
 * Author of "The Body Keeps the Score"
 
-* Website: https://www.besselvanderkolk.com/
+* Website: [link](https://www.besselvanderkolk.com/)
 
 ## Hard scientists who can actually talk to other people, "non-nerds"
 
@@ -58,17 +57,17 @@
 * Composer and pianist.
 * Author of many amazing movie soundtracks, especially in collaboration with Godfrey Reggio.
 
-* Website: https://philipglass.com/
+* Website: [link](https://philipglass.com/)
 
 ### Amanda Overton
 
 Writer, co-producer and executive story editor of Arcane.
 
-* IMDb: https://www.imdb.com/name/nm3354758/
-* Twitter: https://twitter.com/leeloo104
-* Instagram: https://www.instagram.com/leeloo10481
-* Facebook: https://www.facebook.com/amandajoverton
-* Reddit: https://www.reddit.com/user/leeloo104
+* IMDb: [link](https://www.imdb.com/name/nm3354758/)
+* Twitter: [link](https://twitter.com/leeloo104)
+* Instagram: [link](https://www.instagram.com/leeloo10481)
+* Facebook: [link](https://www.facebook.com/amandajoverton)
+* Reddit: [link](https://www.reddit.com/user/leeloo104)
 
 ### [Justin Roiland](https://en.wikipedia.org/wiki/Justin_Roiland)
 
@@ -80,7 +79,7 @@ Writer, co-producer and executive story editor of Arcane.
 * Music writer, arranger, and producer.
 * Best known for his iconic Intense Symphonic Metal style.
 
-* Website: https://www.falkkone.com/
+* Website: [link](https://www.falkkone.com/)
 
 ## Business experts
 
@@ -88,7 +87,6 @@ Writer, co-producer and executive story editor of Arcane.
 
 * Billionaire investor and hedge fund manager.
 * Author of TODO.
-
 
 ## Modern day philosophers
 
@@ -102,8 +100,13 @@ Writer, co-producer and executive story editor of Arcane.
 
 Philosopher, efilist.
 
-* Website: http://www.efilism.com/
-* YouTube: https://www.youtube.com/@inmendham
+* Website: [link](http://www.efilism.com/)
+* YouTube: [link](https://www.youtube.com/@inmendham)
+
+### [Abigail Thorn](https://en.wikipedia.org/wiki/Abigail_Thorn)
+
+* YouTuber, actress, and playwright.
+* [Youtube](https://www.youtube.com/@PhilosophyTube)
 
 ## Human rights activists
 
@@ -111,8 +114,8 @@ Philosopher, efilist.
 
 * Russian opposition leader, lawyer, anti-corruption activist and a political prisoner.
 
-* Website: https://navalny.com/
-* YouTube: https://www.youtube.com/@NavalnyLiveChannel
+* Website: [link](https://navalny.com/)
+* YouTube: [link](https://www.youtube.com/@NavalnyLiveChannel)
 
 Died before I could publish this document. Rest in peace, fellow King.
 
@@ -120,7 +123,7 @@ Died before I could publish this document. Rest in peace, fellow King.
 
 * Former computer intelligence consultant and whistleblower.
 
-* Website: https://edwardsnowden.substack.com/
+* Website: [link](https://edwardsnowden.substack.com/)
 
 ### [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning)
 
