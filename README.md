@@ -32,3 +32,13 @@ I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingd
 * A perfect economy where each individual is given just enough work and deadlines that are actually reasonable. Where every worker is valued for exactly the amount of work they are capable of doing.
 * Recognition of each person as an individual with their individual preferences and a guaranteed safe space to enjoy those preferences. No more forced conformity. Freedom for all.
 * Abolition of the forms of greed such as copyright, patents and trademarks. People spend more time in the court of law suing each other, studying horribly long license agreements or clicking through them without reading, spending a long time to choose a license for their works. All this time is wasted and could have been invested into something more productive.
+
+## What can you do
+
+First of all, [don't try to convince other people](https://www.youtube.com/watch?v=0uZnhJydpbY). Humans are slow and rigid. If they can't understand the message - just move on. Don't waste your time. Time is an asset. Be mindful of how you spend it. Don't waste it on people who are not useful.
+
+Focus on self-improvement. We are building a better world. It starts with better ourselves. Start journaling - figuring yourself out. Building a consctructive relationship with yourself. Better world is built by people who are mindful and self-conscious.
+
+The rest depends on your skills. Financial literacy is also important. [Poor person mindset is a trap](https://www.youtube.com/watch?v=eDa1U9qJKxo). Start managing assets like your time, money, clothes, etc more consciously. Build your own mini-system to be mindful of your own spending.
+
+We need all professions. People have [needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs) we need to help each other satisfy our needs.
