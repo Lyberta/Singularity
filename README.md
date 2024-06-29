@@ -10,6 +10,8 @@ I TELL YOU ALL, WE AS HUMANITY STAND STRONG! NO MATTER WHO WE ARE, NO MATTER OUR
 
 WE CAN DO BETTER! WE CAN BUILD A SYSTEM TO EMPOWER HUMANITY! TO STOP ALL THE VIOLENCE AND GREED!!! WE CAN BE TOGETHER AS ONE!
 
+[What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
+
 I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingdon of Good Vibes. Where each cell - each citizen - each human - can exist in peace - be a valuable member of society and have their contribution recognized properly. 
 
 ## The kingdom needs
