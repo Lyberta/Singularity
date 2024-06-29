@@ -1,13 +1,12 @@
 # Singularity
 
-A system for humans to achieve technological singularity
+A system for humans to achieve technological singularity.
 
-Human brain is a biocomputer. It can be reverse engineered, controlled, predicted. This might can be used t empower humanity or to enslave it. For "good" or "evil".
+Human brain is a biocomputer. It can be reverse engineered, controlled, predicted. This might can be used to empower humanity or to enslave it. For "good" or "evil".
 
 We are all human. We all have our hopes and dreams. We all want happiness, for ourselves and loved ones. But "greed has poisoned men's souls, has barricaded the world with hate" as Charlie Chaplin has said. NO MORE!!!
 
-
-I TELL YOU ALL, WE AS, HUMANITY STAND STRONG! NO MATTER WHO WE ARE, NO MATTER OUR TASTES OR SEXUAL PREFERENCES!!! THE WAR WAS WAGED FOR LONG ENOUGH!!!! ENOUGH IS ENOUGH!!!!
+I TELL YOU ALL, WE AS HUMANITY STAND STRONG! NO MATTER WHO WE ARE, NO MATTER OUR TASTES OR SEXUAL PREFERENCES!!! THE WAR HAS WAGED FOR LONG ENOUGH!!!! ENOUGH IS ENOUGH!!!!
 
 WE CAN DO BETTER! WE CAN BUILD A SYSTEM TO EMPOWER HUMANITY! TO STOP ALL THE VIOLENCE AND GREED!!! WE CAN BE TOGETHER A ONE!
 
@@ -26,3 +25,4 @@ I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingd
 * Moving the Overton window of society towards the acceptance of reality and elimination of bigotry. We are all human, we all deserve a chance at good life. Other animals too, by the way, and vegans are doing a good job there.
 * A perfect economy where each individual is given just enough work and deadlines that are actually reasonable. Where every worker is valued for exactly the amount of work they are capable of doing.
 * Recognition of each person as an individual with their individual preferences and a guaranteed safe space to enjoy those preferences. No more forced conformity. Freedom for all.
+* Abolition of the forms of greed such as copyright, patents and trademarks. People spend more time in the court of law suing each other, studying horribly long license agreements or clicking through them without reading, spending a long time to choose a license for their works. All this time is wasted and could have been invested into something more productive.
