@@ -1,4 +1,5 @@
 # Singularity
+
 A system for humans to achieve technological singularity
 
 Human brain is a biocomputer. It can be reverse engineered, controlled, predicted. This might can be used t empower humanity or to enslave it. For "good" or "evil".

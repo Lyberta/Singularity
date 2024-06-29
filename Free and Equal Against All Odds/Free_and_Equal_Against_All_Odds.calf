@@ -1,0 +1,34 @@
+<rack>
+<plugin type="reverb" instance-name="reverb" input-index="1" output-index="1">
+<preset bank="0" program="0" plugin="reverb" name="">
+  <param name="clip" value="0" />
+  <param name="meter_wet" value="0" />
+  <param name="meter_out" value="0" />
+  <param name="decay_time" value="2.00454" />
+  <param name="hf_damp" value="5000" />
+  <param name="room_size" value="2" />
+  <param name="diffusion" value="0.5" />
+  <param name="amount" value="0.314253" />
+  <param name="dry" value="1" />
+  <param name="predelay" value="0" />
+  <param name="bass_cut" value="300" />
+  <param name="treble_cut" value="5000" />
+</preset>
+</plugin>
+<plugin type="reverb" instance-name="reverb2" input-index="3" output-index="3">
+<preset bank="0" program="0" plugin="reverb" name="">
+  <param name="clip" value="0" />
+  <param name="meter_wet" value="0" />
+  <param name="meter_out" value="0" />
+  <param name="decay_time" value="2.58343" />
+  <param name="hf_damp" value="5000" />
+  <param name="room_size" value="2" />
+  <param name="diffusion" value="0.5" />
+  <param name="amount" value="0.314253" />
+  <param name="dry" value="1" />
+  <param name="predelay" value="0" />
+  <param name="bass_cut" value="300" />
+  <param name="treble_cut" value="5000" />
+</preset>
+</plugin>
+</rack>
