@@ -13,7 +13,7 @@
 
 ### [Gabor Maté](https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9)
 
-* Website: https://drgabormate.com/
+* Website: [link](https://drgabormate.com/)
 
 ### [Bessel van der Kolk](https://en.wikipedia.org/wiki/Bessel_van_der_Kolk)
 
@@ -106,7 +106,7 @@ Philosopher, efilist.
 ### [Abigail Thorn](https://en.wikipedia.org/wiki/Abigail_Thorn)
 
 * YouTuber, actress, and playwright.
-* [Youtube](https://www.youtube.com/@PhilosophyTube)
+* Youtube: [link](https://www.youtube.com/@PhilosophyTube)
 
 ## Human rights activists
 
