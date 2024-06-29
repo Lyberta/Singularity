@@ -88,6 +88,13 @@ Writer, co-producer and executive story editor of Arcane.
 * Billionaire investor and hedge fund manager.
 * Author of TODO.
 
+### [Christopher Voss](https://en.wikipedia.org/wiki/Christopher_Voss)
+
+* Businessman, author, and academic.
+* Former FBI hostage negotiator.
+
+* Website: [link](https://www.blackswanltd.com/chris-voss)
+
 ## Modern day philosophers
 
 ### [David Benatar](https://en.wikipedia.org/wiki/David_Benatar)
