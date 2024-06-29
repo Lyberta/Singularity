@@ -8,7 +8,7 @@ We are all human. We all have our hopes and dreams. We all want happiness, for o
 
 I TELL YOU ALL, WE AS HUMANITY STAND STRONG! NO MATTER WHO WE ARE, NO MATTER OUR TASTES OR SEXUAL PREFERENCES!!! THE WAR HAS WAGED FOR LONG ENOUGH!!!! ENOUGH IS ENOUGH!!!!
 
-WE CAN DO BETTER! WE CAN BUILD A SYSTEM TO EMPOWER HUMANITY! TO STOP ALL THE VIOLENCE AND GREED!!! WE CAN BE TOGETHER A ONE!
+WE CAN DO BETTER! WE CAN BUILD A SYSTEM TO EMPOWER HUMANITY! TO STOP ALL THE VIOLENCE AND GREED!!! WE CAN BE TOGETHER AS ONE!
 
 I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingdon of Good Vibes. Where each cell - each citizen - each human - can exist in peace - be a valuable member of society and have their contribution recognized properly. 
 
@@ -20,6 +20,10 @@ I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingd
 
 * An operating system based on [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) to help empower humans. Knowledge is a graph, we need to free ourselves of the chains of desktop metaphor and tree-based file system. We need an extension of our own brains to help us.
 * A programming language similar to the plain English. So that as many people can be empowered to learn programming. We can go past the arrogance of the 1970s academia and the C programming language. The arrogance and the lack of self-awareness of the UNIX people brought decades of bugs which has causes significant economic damage and uncountable pain and suffering.
+* Automatic refactoring tools to convert code written in old programming languages into a new one. It is wise to maintain the technological capital while giving it a path forward.
+* Automatic testing, CI, code coverage tools to make sure any new code is free of bugs. Humans are notorious at creating bugs so bugs must be caught as early as possible.
+* IDE designed to help human learn programming. Flashy and user-friendly. No more insanity of Linux terminal, GCC, Make, Cmake and others.
+* A system to generate human-friendly documentation. It can be AI assisted too.
 * Knowledge-graph-based software similar to [Obsidian](https://obsidian.md/) but using proper OWL, letting the user built complicated queries and the software doing formal reasoning over the knowledge graph.
 * Project management software to user coud visualize the progress towards their goals. Can later be merged the the knowledge base software and integrated into the rest of operating system.
 * Moving the Overton window of society towards the acceptance of reality and elimination of bigotry. We are all human, we all deserve a chance at good life. Other animals too, by the way, and vegans are doing a good job there.
