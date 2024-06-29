@@ -15,3 +15,12 @@ I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingd
 ## The kingdom needs
 
 * YOU
+
+## But also
+
+* An operating system based on [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) to help empower humans. Knowledge is a graph, we need to free ourselves of the chains of desktop metaphor and tree-based file system. We need an extension of our own brains to help us.
+* Knowledge-graph-based software similar to [Obsidian](https://obsidian.md/) but using proper OWL, letting the user built complicated queries and the software doing formal reasoning over the knowledge graph.
+* Project management software to user coud visualize the progress towards their goals. Can later be merged the the knowledge base software and integrated into the rest of operating system.
+* Moving the Overton window of society towards the acceptance of reality and elimination of bigotry. We are all human, we all deserve a chance at good life. Other animals too, by the way, and vegans are doing a good job there.
+* A perfect economy where each individual is given just enough work and deadlines that are actually reasonable. Where every worker is valued for exactly the amount of work they are capable of doing.
+* Recognition of each person as an individual with their individual preferences and a guaranteed safe space to enjoy those preferences. No more forced conformity. Freedom for all.
