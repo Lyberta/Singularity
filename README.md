@@ -45,3 +45,13 @@ Focus on self-improvement. We are building a better world. It starts with better
 The rest depends on your skills. Financial literacy is also important. [Poor person mindset is a trap](https://www.youtube.com/watch?v=eDa1U9qJKxo). Start managing assets like your time, money, clothes, etc more consciously. Build your own mini-system to be mindful of your own spending.
 
 We need all professions. People have [needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs) we need to help each other satisfy our needs.
+
+## The awakening process
+
+Well, it all starts with realizing that human brain is a biocomputer. Biological LLM. It has its own hardware and software. But the weights it starts with a very basic. Look at any newborn or a toddler and their behavior. But it slowly learns over time, adjusting the weights to become more in touch with reality.
+
+[But it is designed to minimize thinking](https://www.youtube.com/watch?v=VNGFep6rncY). So the vast majority of people become comfortable living in their own bubble of delusions and don't [seek the truth](https://www.youtube.com/watch?v=e-k7b8Zmh70). They become easily exploitable puppets by those who know more and speak to the delusions of puppets.
+
+So the first step is becoming a [truth seeker](https://www.youtube.com/watch?v=NxqTOm3TzsY). One must stop clinging to their own delusions and start gazing into the abyss because truth often hurts. Badly. But there is a concept of accepting the uncomfortable truth - [grieving](https://www.youtube.com/watch?v=c95sfyv-M8M). To properly awaken, one must develop a lifestyle of [radical acceptance](https://www.youtube.com/watch?v=V8oFemGi5EY).
+
+The best way to start reverse engineering your own brain and adjusting the weights accordingly is [journaling](https://www.youtube.com/watch?v=ol55psqaSrc) and writing [autobiography](https://www.youtube.com/watch?v=MfCb0W6HAso). You can think of it as defragmenting your own memories. Your own cleaning program goes through all the thoughts, feelings and memories and cleans all the unprocessed stuff by adjusting the weights in your biological LLM. And at the end you have clean defragmented memory that can be accessed without any pain.
