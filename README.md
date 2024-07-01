@@ -64,7 +64,7 @@ Yes, the more accepting our own brains are, the better people we can be towards 
 
 ### The family system
 
-“If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence, or at any rate not take it upon himself to impose that burden upon it in cold blood?” ― Arthur Schopenhauer
+*“If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence, or at any rate not take it upon himself to impose that burden upon it in cold blood?” ― Arthur Schopenhauer*
 
 Oh yes, it all starts with the family system. Because why would humans need a biological offspiring when there are so many children suffering in orphanages? **Greed.** It's all about spreading genes at the cost of suffering of other people. Plus, the legal system encourages this greed by letting parents forcefully assign first and last names against the child's consent. Child is born and assigned the identity - including the legal gender - against their consent.
 
@@ -98,6 +98,6 @@ Everything to kill people, to kill their brains just because their behavior does
 
 ### The legal system
 
-"The state calls its own violence law, but that of the individual, crime." - Max Stirner
+*"The state calls its own violence law, but that of the individual, crime." - Max Stirner*
 
 Ah yes, the legal system. Where the state dicates the laws and people who do not conform to these laws are labeled "criminals" or "mentally ill". Though, in recent times this system runs on a lie called "democracy" where citizens are given the illusion of power while all the real decision happen among the rich behind the closed doors. It's always beneficial to lie to people and give them the illusion of power to keep the obedient.
