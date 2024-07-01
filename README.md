@@ -90,7 +90,7 @@ Ah yes, where every deviation to the violence of the current system is labeled "
 * Gay people? ["Homosexuality"](https://en.wikipedia.org/wiki/Homosexuality) - "mental illness".
 * Trans people? ["Transsexualism"](https://en.wikipedia.org/wiki/Transgender) - "mental illness".
 
-Just label everything you (as a government) personally don't like a "mental illness". And then the victims are gaslighted [that something is wrong with them](https://www.youtube.com/watch?v=TnL7i35fWQk) poisoned with deadly neurotoxins called "antipsychotics" and "antidepressants", sometimes involuntarily, institutionalized into horrific concentration camps known as "psychiatric hospitals" and in the worst cases tortured with [electroshock](https://en.wikipedia.org/wiki/Electroconvulsive_therapy).
+Just label everything you (as a government) personally don't like a "mental illness". And then the victims are gaslighted [that something is wrong with them](https://www.youtube.com/watch?v=TnL7i35fWQk) poisoned with deadly neurotoxins called "antipsychotics" and "antidepressants", sometimes involuntarily, institutionalized into horrific concentration camps known as "psychiatric hospitals" and in the worst cases [tortured](http://ectjustice.com/) with [electroshock](https://en.wikipedia.org/wiki/Electroconvulsive_therapy).
 
 Everything to kill people, to kill their brains just because their behavior doesn't conform to the delusions of the system.
 
