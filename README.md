@@ -20,6 +20,10 @@ I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingd
 
 * YOU
 
+Join us on:
+
+* Matrix: [#singularity-movement:matrix.org](https://matrix.to/#/%23singularity-movement%3Amatrix.org)
+
 ## But also
 
 * An operating system based on [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) to help empower humans. Knowledge is a graph, we need to free ourselves of the chains of desktop metaphor and tree-based file system. We need an extension of our own brains to help us.
