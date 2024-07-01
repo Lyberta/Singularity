@@ -102,4 +102,6 @@ Everything to kill people, to kill their brains just because their behavior does
 
 *"The state calls its own violence law, but that of the individual, crime." - [Max Stirner](https://en.wikipedia.org/wiki/Max_Stirner)*
 
-Ah yes, the legal system. Where the state dicates the laws and people who do not conform to these laws are labeled "criminals" or "mentally ill". Though, in recent times this system runs on a lie called "democracy" where citizens are given the illusion of power while all the real decision happen among the rich behind the closed doors. It's always beneficial to lie to people and give them the illusion of power to keep the obedient.
+Ah yes, the legal system. Where the state dicates the laws and people who get caught not conforming to these laws are labeled "criminals" or "mentally ill". Wise "criminals" take precautionary measures to not get caught and wise people with mental problems just mask in public. Though, in recent times this system runs on a lie called "democracy" where citizens are given the illusion of power while all the real decision happen among the rich behind the closed doors. It's always beneficial to lie to people and give them the illusion of power to keep the obedient.
+
+
