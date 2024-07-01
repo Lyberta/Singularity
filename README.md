@@ -62,6 +62,8 @@ Yes, the more accepting our own brains are, the better people we can be towards 
 
 ## Systems of chaos, greed, denial and violence in the current world
 
+*"Is it surprising that prisons resemble factories, schools, barracks, hospitals, which all resemble prisons?" - Michel Foucault*
+
 ### The family system
 
 *“If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence, or at any rate not take it upon himself to impose that burden upon it in cold blood?” ― Arthur Schopenhauer*
