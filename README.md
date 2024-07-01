@@ -59,3 +59,43 @@ The best way to start reverse engineering your own brain and adjusting the weigh
 And the more you understand yourself, the more you [understand other people](https://www.youtube.com/watch?v=vwN-7mklDCM). Yes, we must confront our shadows and we must accept them. After all, it's just our biocomputer doing its thing. The best we can do is, again, adjust the weight and keep living with the full acceptance of our psyche. Plus, once you accept it, the painful feelings go away. You can be a friend of your shadow, not an enemy. And when other people slip up, other people can help them too without judgement.
 
 Yes, the more accepting our own brains are, the better people we can be towards others. We can be positive, non-judgemental, we can cooperate our of our wisdom, not greed. And what happens next? [Synergy](https://en.wikipedia.org/wiki/Synergy). Cooperation snowballs. Positivity and good vibes create more positivity and good vibes. And thus the whole world is transformed. [Maximum power principle](https://en.wikipedia.org/wiki/Maximum_power_principle). The power of cooperation and good vibes is a universal force. A universal force which was repressed by the lack of maturity of our Universe as a whole. Remember, it all started with Big Bang and elementary particles? Well, now it is time in the history of this planet that the universal force of high-level cooperation wins over the chaos of greed and denial. This is literally the next step of the evolution.
+
+## Systems of chaos, greed, denial and violence in the current world
+
+### The family system
+
+Oh yes, it all starts with the family system. Because why would humans need a biological offspiring when there are so many children suffering in orphanages? **Greed.** It's all about spreading genes at the cost of suffering of other people. Plus, the legal system encourages this greed by letting parents forcefully assign first and last names against the child's consent. Child is born and assigned the identity - including the legal gender - against their consent.
+
+Plus, let's not forget the parenting styles of most parents. Horrific authoritarian rule and punishments creating a pandemic of childhood trauma.
+
+### The education system
+
+The education system is based on autoritarian rule where teachers assign standardized classes and exercises against the students' consent. After all, it's "compulsory education". No wonder that it creates school shooters. School system is designed to create school shooters. All the school bullying while parents and teachers juggle the responsibility like a hot potato. And how could they? They were never taught to think differently so the cycle of trauma and violence perpetuates itself.
+
+### The labor system
+
+Since people where already traumatized into obedience by the "education" system. They are then groomed into looking for a job where their labor will be exploited by the wiser people. Of course, wise people know how the economic and political system *really* works and there are tons of obedient slaves who know no better.
+
+### The medicine
+
+Medical system is based on greed and oppression. Doctor is put as an authority over the patient and patient is being gatekept by presciptions for drugs, etc. No wonder there is so much medical malpractice as the system favors arrogance and greed over cooperation.
+
+### Mental health system
+
+Ah yes, where every deviation to the violence of the current system is labeled "mental illness".
+
+* Black slave who wants basic human rights? ["Drapetomania"](https://en.wikipedia.org/wiki/Drapetomania) - "mental illness".
+* Woman who wants basic human rights? ["Hysteria"](https://en.wikipedia.org/wiki/Hysteria) - "mental illness".
+* Young people who want basic human rights? ["Oppositional defiant disorder"](https://en.wikipedia.org/wiki/Oppositional_defiant_disorder), ["conduct disorder"](https://en.wikipedia.org/wiki/Conduct_disorder) - "mental illness".
+* Gay people? ["Homosexuality"](https://en.wikipedia.org/wiki/Homosexuality) - "mental illness".
+* Trans people? ["Transsexualism"](https://en.wikipedia.org/wiki/Transgender) - "mental illness".
+
+Just label everything you (as a government) personally don't like a "mental illness". And then the victims are gaslighted [that something is wrong with them](https://www.youtube.com/watch?v=TnL7i35fWQk) poisoned with deadly neurotoxins called "antipsychotics" and "antidepressants", sometimes involuntarily, institutionalized into horrific concentration camps known as "psychiatric hospitals" and in the worst cases tortured with [electroshock](https://en.wikipedia.org/wiki/Electroconvulsive_therapy).
+
+Everything to kill people, to kill their brains just because their behavior doesn't conform to the delusions of the system.
+
+### The legal system
+
+"The state calls its own violence law, but that of the individual, crime." - Max Stirner
+
+Ah yes, the legal system. Where the state dicates the laws and people who do not conform to these laws are labeled "criminals" or "mentally ill". Though, in recent times this system runs on a lie called "democracy" where citizens are given the illusion of power while all the real decision happen among the rich behind the closed doors. It's always beneficial to lie to people and give them the illusion of power to keep the obedient.
