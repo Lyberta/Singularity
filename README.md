@@ -72,7 +72,7 @@ Yes, the more accepting our own brains are, the better people we can be towards 
 
 *“If children were brought into the world by an act of pure reason alone, would the human race continue to exist? Would not a man rather have so much sympathy with the coming generation as to spare it the burden of existence, or at any rate not take it upon himself to impose that burden upon it in cold blood?” ― [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)*
 
-Oh yes, it all starts with the family system. Because why would humans need a biological offspiring when there are so many children suffering in orphanages? **Greed.** It's all about spreading genes at the cost of suffering of other people. Plus, the legal system encourages this greed by letting parents forcefully assign first and last names against the child's consent. Child is born and assigned the identity - including the legal gender - against their consent.
+Oh yes, it all starts with the family system. Because why would humans need a biological offspiring when there are so many children suffering in orphanages? **Greed.** It's all about spreading genes at the cost of suffering of other people. Plus, the legal system encourages this greed by letting parents [forcefully assign first and last names against the child's consent](https://www.youtube.com/watch?v=y9zcUv32OI0). Child is born and assigned the identity - including the legal gender - against their consent.
 
 Plus, let's not forget the parenting styles of most parents. Horrific authoritarian rule and punishments creating a pandemic of childhood trauma.
 
