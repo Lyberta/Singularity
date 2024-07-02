@@ -24,7 +24,9 @@ Together we can build a glorious future, fix all the mess we've created on Earth
 
 * YOU
 
-Join us on:
+However, note that this is not the usual project with authoritarian rule. The main goal of this particular project is to spread ideas so people would start working on themselves. Your own life is the most important part.
+
+However, you can talk to us on:
 
 * Matrix: [#singularity-movement:matrix.org](https://matrix.to/#/%23singularity-movement%3Amatrix.org)
 
