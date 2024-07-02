@@ -4,7 +4,7 @@ A system for humans to achieve technological singularity.
 
 Human brain is a biocomputer. It can be reverse engineered, controlled, predicted. This might can be used to empower humanity or to enslave it. For "good" or "evil".
 
-We are all human. [We all have our hopes and dreams](https://www.youtube.com/watch?v=IxJzjgt1qAY). We all want happiness, for ourselves and loved ones. But ["greed has poisoned men's souls, has barricaded the world with hate"](https://www.youtube.com/watch?v=ouzKl0oD6sU) as Charlie Chaplin has said. NO MORE!!!
+We are all human. [We all have our hopes and dreams](https://www.youtube.com/watch?v=IxJzjgt1qAY). [We all want happiness, for ourselves and loved ones.](https://www.youtube.com/watch?v=tRw26sEEywY) But ["greed has poisoned men's souls, has barricaded the world with hate"](https://www.youtube.com/watch?v=ouzKl0oD6sU) as Charlie Chaplin has said. NO MORE!!!
 
 I TELL YOU ALL, WE AS HUMANITY STAND STRONG! NO MATTER WHO WE ARE, NO MATTER OUR TASTES OR SEXUAL PREFERENCES!!! THE WAR HAS WAGED FOR LONG ENOUGH!!!! ENOUGH IS ENOUGH!!!!
 
