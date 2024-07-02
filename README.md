@@ -14,7 +14,9 @@ It all started with Big Bang, then came elementary particles, then atoms, molecu
 
 [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingdon of Good Vibes. Where each cell - each citizen - each human - can exist in peace - be a valuable member of society and have their contribution recognized properly. 
+I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingdon of Good Vibes. Where each cell - each citizen - each human - can exist in peace - be a valuable member of society and have their contribution recognized properly.
+
+Together we can build a glorious future, fix all the mess we've created on Earth and then start conquering the rest of the Universe. And if we're either not in the simulation or there is no escape, well, then the Empire of Truth dies with the [heat death of the Universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe). All of it will be gone, like [tears in rain](https://www.youtube.com/watch?v=NoAzpa1x7jU). But do not despair because this is just nornal state of things. Seeing the mortality of our own Universe is just a step in the radical acceptance of reality. It just shows that [desire for legacy is a delusion](https://www.youtube.com/watch?v=Jv79l1b-eoI).
 
 ## The kingdom needs
 
