@@ -78,7 +78,7 @@ Plus, let's not forget the parenting styles of most parents. Horrific authoritar
 
 ### The education system
 
-"I never let my schooling interfere with my education." - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)
+*"I never let my schooling interfere with my education." - [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)*
 
 The education system is based on autoritarian rule where teachers assign standardized classes and exercises [against the students' consent](https://ry4an.org/readings/short/student/). After all, it's "compulsory education". No wonder that it creates school shooters. School system is designed to create school shooters. All the school bullying while parents and teachers juggle the responsibility like a hot potato. And how could they? They were never taught to think differently so the cycle of trauma and violence perpetuates itself.
 
