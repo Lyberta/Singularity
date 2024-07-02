@@ -30,7 +30,7 @@ Join us on:
 
 ## But also
 
-* An operating system based on [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) to help empower humans. Knowledge is a graph, we need to free ourselves of the chains of desktop metaphor and tree-based file system. We need an extension of our own brains to help us.
+* [An operating system](ActivityOS.md) based on [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language) to help empower humans. Knowledge is a graph, we need to free ourselves of the chains of desktop metaphor and tree-based file system. We need an extension of our own brains to help us.
 * A programming language similar to the plain English. So that as many people can be empowered to learn programming. We can go past the arrogance of the 1970s academia and the C programming language. The arrogance and the lack of self-awareness of the UNIX people brought decades of bugs which has causes significant economic damage and uncountable pain and suffering.
 * Automatic refactoring tools to convert code written in old programming languages into a new one. It is wise to maintain the technological capital while giving it a path forward.
 * Automatic testing, CI, code coverage tools to make sure any new code is free of bugs. Humans are notorious at creating bugs so bugs must be caught as early as possible.
