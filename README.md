@@ -18,6 +18,8 @@ I - Lyberta - was chosen as a Queen Cell. To liberate humanity and build a Kingd
 
 Together we can build a glorious future, fix all the mess we've created on Earth and then start conquering the rest of the Universe. And if we're either not in the simulation or there is no escape, well, then the Empire of Truth dies with the [heat death of the Universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe). All of it will be gone, like [tears in rain](https://www.youtube.com/watch?v=NoAzpa1x7jU). But do not despair because this is just nornal state of things. Seeing the mortality of our own Universe is just a step in the radical acceptance of reality. It just shows that [desire for legacy is a delusion](https://www.youtube.com/watch?v=Jv79l1b-eoI).
 
+*[“Thus I draw from the absurd three consequences, which are my revolt, my freedom, and my passion. By the mere activity of consciousness I transform into a rule of life what was an invitation to death—and I refuse suicide.”](https://www.youtube.com/watch?v=m7TOJtOnXWg) ― [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)*
+
 ## The kingdom needs
 
 * YOU
