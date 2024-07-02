@@ -50,7 +50,7 @@ Focus on self-improvement. We are building a better world. It starts with better
 
 The rest depends on your skills. Financial literacy is also important. [Poor person mindset is a trap](https://www.youtube.com/watch?v=eDa1U9qJKxo). Start managing assets like your time, money, clothes, etc more consciously. Build your own mini-system to be mindful of your own spending.
 
-We need all professions. People have [needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs) we need to help each other satisfy our needs.
+We need all professions. People have [needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). We need to help each other satisfy our needs.
 
 ## The awakening process
 
