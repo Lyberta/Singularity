@@ -92,6 +92,8 @@ Medical system is based on greed and oppression. Doctor is put as an authority o
 
 ### Mental health system
 
+*["And those who were seen dancing were thought to be insane by those who could not hear the music."](https://www.youtube.com/watch?v=BBY4zUFxUjA) - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)*
+
 Ah yes, where every deviation to the violence of the current system is labeled "mental illness".
 
 * Black slave who wants basic human rights? ["Drapetomania"](https://en.wikipedia.org/wiki/Drapetomania) - "mental illness".
