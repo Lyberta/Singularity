@@ -18,7 +18,7 @@ And let's forget about traditional desktops, laptops, smartphones... what about 
 
 As you can see, activities can be pretty complicated, context-sensitive based of user's location, time of day, weekday, other people nearby, they may involve launching many apps at once with different files loaded, they may involve switching certain low-level services such as gaming activity removing limiters allowing overclocking the CPU and GPU for maximum performance, sleeping activity downclocking the system and slowing down the fans...
 
-Finally, the input device. Well, graph-based file system and activities can be put into old form factors. One can easily imagine ActivityOS running on a desktop PC, laptop, tablet, smartphone, smartwatch... However, the are old bounch by legacy input devices. We have our bodies and our voice. Maximum productivity will be achieved by running ActivityOS on a device similar to [Apple Vision Pro](https://en.wikipedia.org/wiki/Apple_Vision_Pro) and [Neuralink](https://en.wikipedia.org/wiki/Neuralink).
+Finally, the input device. Well, graph-based file system and activities can be put into old form factors. One can easily imagine ActivityOS running on a desktop PC, laptop, tablet, smartphone, smartwatch... However, the are all bound by legacy input devices. We have our bodies and our voice. Maximum productivity will be achieved by running ActivityOS on a device similar to [Apple Vision Pro](https://en.wikipedia.org/wiki/Apple_Vision_Pro) and [Neuralink](https://en.wikipedia.org/wiki/Neuralink).
 
 ## Activity
 
