@@ -14,7 +14,7 @@ It all started with Big Bang, then came elementary particles, then atoms, molecu
 
 [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-I - Lyberta - was chosen by the Universe as a Architect Cell. To liberate humanity and build a [Kingdom of Good Vibes](https://www.youtube.com/watch?v=PIb6AZdTr-A). Where each cell - each citizen - each human - can exist in peace - be a valuable member of society and have their contribution recognized properly.
+I - Lyberta - was chosen by the Universe as a Mother Cell. To liberate humanity and build a [Kingdom of Good Vibes](https://www.youtube.com/watch?v=PIb6AZdTr-A). Where each cell - each citizen - each human - can exist in peace - be a valuable member of society and have their contribution recognized properly.
 
 Together we can build a glorious future, fix all the mess we've created on Earth and then start conquering the rest of the Universe. And if we're either not in the [simulation](https://en.wikipedia.org/wiki/Simulation_hypothesis) or there is no escape, well, then the Empire of Truth dies with the [heat death of the Universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe). All of it will be gone, like [tears in rain](https://www.youtube.com/watch?v=NoAzpa1x7jU). But do not despair because this is just nornal state of things. [Seeing the mortality of our own Universe](https://www.youtube.com/watch?v=8AHCfZTRGiI) is just a step in the radical acceptance of reality. It just shows that [desire for legacy is a delusion](https://www.youtube.com/watch?v=Jv79l1b-eoI).
 
