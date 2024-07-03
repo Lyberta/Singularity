@@ -1,4 +1,4 @@
-# Singularity
+# ![Truth](Flag/Render/Flag_64x64.png) Singularity
 
 A system for humans to achieve technological singularity.
 
