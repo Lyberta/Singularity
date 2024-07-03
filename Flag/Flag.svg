@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 22 20"
+   viewBox="0 0 22 22"
    fill="none"
    class="h-4 w-4 sm:h-5 sm:w-5 2xl:h-6 2xl:w-6 stroke-current text-slate-800 dark:text-slate-50"
    version="1.1"
    id="svg4"
    sodipodi:docname="Flag.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="Flag.png"
+   inkscape:export-xdpi="2234.1819"
+   inkscape:export-ydpi="2234.1819"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,8 +26,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="11.8"
-     inkscape:cx="9.7457627"
+     inkscape:zoom="0.5"
+     inkscape:cx="13"
      inkscape:cy="10"
      inkscape:window-width="2560"
      inkscape:window-height="1354"
@@ -33,7 +36,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="M11 19C12 19 21 14.0002 21 7.00043C21 3.50057 18 1.04405 15 1.00065C13.5 0.978943 12 1.50065 11 3.00059C10 1.50065 8.47405 1.00065 7 1.00065C4 1.00065 1 3.50057 1 7.00043C1 14.0002 10 19 11 19Z"
+     d="m 11,19.999998 c 1,0 10,-4.9998 10,-11.9995695 0,-3.49986 -3,-5.95638 -6,-5.99978 -1.5,-0.021707 -3,0.5 -4,1.99994 -1,-1.49994 -2.52595,-1.99994 -4,-1.99994 -3,0 -6,2.49992 -6,5.99978 0,6.9997695 9,11.9995695 10,11.9995695 z"
      stroke-width="1.5"
      stroke-linecap="round"
      stroke-linejoin="round"
