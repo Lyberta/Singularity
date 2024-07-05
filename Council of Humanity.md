@@ -74,6 +74,17 @@ Writer, co-producer and executive story editor of Arcane.
 * Voice actor, animator, writer, producer, and director.
 * Co-creator of Rick and Morty.
 
+### MarcoMeatball
+
+* Former pro opera singer, turned voice actor, turned youtuber.
+
+* YouTube: [link](https://www.youtube.com/@MarcoMeatball)
+* Twitch: [link](https://www.twitch.tv/marcomeatball)
+* X: [link](https://x.com/MrMarcoMeatball)
+* Discord: [link](https://discord.gg/pmHVrBGfQu)
+* Patreon: [link](https://patreon.com/marcomeatball)
+* Ko-fi: [link](https://ko-fi.com/marcodmeatball)
+
 ### Michał "FalKKonE" Sokołowski
 
 * Music writer, arranger, and producer.
