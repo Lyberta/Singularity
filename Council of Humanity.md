@@ -94,6 +94,12 @@ Writer, co-producer and executive story editor of Arcane.
 
 * Website: [link](https://rickygervais.com/)
 
+### [John Oliver](https://en.wikipedia.org/wiki/John_Oliver)
+
+* Comedian, writer, producer, political commentator, actor, and television host.
+
+* Website: [link](https://www.iamjohnoliver.com/)
+
 ## Business experts
 
 ### [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio)
