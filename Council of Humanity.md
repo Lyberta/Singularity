@@ -100,6 +100,12 @@ Writer, co-producer and executive story editor of Arcane.
 
 * Website: [link](https://www.iamjohnoliver.com/)
 
+### [Bill Maher](https://en.wikipedia.org/wiki/Bill_Maher)
+
+* Comedian, writer, producer, political commentator, actor, and television host.
+
+* Website: [link](https://billmaher.com/)
+
 ## Business experts
 
 ### [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio)
