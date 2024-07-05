@@ -74,6 +74,12 @@ Writer, co-producer and executive story editor of Arcane.
 * Voice actor, animator, writer, producer, and director.
 * Co-creator of Rick and Morty.
 
+### [Goldfrapp](https://en.wikipedia.org/wiki/Goldfrapp)
+
+* Electronic music duo from London.
+
+* Website: [link](https://www.goldfrapp.com/)
+
 ### MarcoMeatball
 
 * Former pro opera singer, turned voice actor, turned youtuber.
