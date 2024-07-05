@@ -92,6 +92,16 @@ Writer, co-producer and executive story editor of Arcane.
 
 * Website: [link](https://www.falkkone.com/)
 
+### Samuel Kim
+
+* Epic and Cinematic Arrangements of Film, TV, Anime and Game Soundtracks!
+
+* YouTube: [link](https://www.youtube.com/@samuelkimmusic)
+* Spotify: [link](https://open.spotify.com/artist/2bdcBjvuI9worc472GbeU0?si=A6m2cKLQQiW1odSOwSTEOQ)
+* Apple Music: [link](https://music.apple.com/ca/artist/samuel-kim/1489801552)
+* YouTube Music: [link](https://music.youtube.com/channel/UC5LMr1oW9sZp5DVK9xr_k9A)
+* Patreon: [link](https://www.patreon.com/samuelkimmusic)
+
 ### [Bo Burnham](https://en.wikipedia.org/wiki/Bo_Burnham)
 
 * Stand-up comedian, musician, YouTuber, actor, and filmmaker.
