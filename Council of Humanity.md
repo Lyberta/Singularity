@@ -149,7 +149,13 @@ Died before I could publish this document. Rest in peace, fellow King.
 
 * Activist and whistleblower.
 
-### [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assangehttps://en.wikipedia.org/wiki/Julian_Assange)
+### [Julian Assange](https://en.wikipedia.org/wiki/Julian_Assange)
 
 * Editor, publisher, and activist.
 * Creator of WikiLeaks.
+
+### [James Stephanie Sterling](https://en.wikipedia.org/wiki/James_Stephanie_Sterling)
+
+* Freelance video game journalist, critic, pundit, YouTuber, and professional wrestler.
+
+* YouTube: [link](https://www.youtube.com/@JimSterling)
