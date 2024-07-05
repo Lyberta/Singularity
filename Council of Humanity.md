@@ -81,6 +81,13 @@ Writer, co-producer and executive story editor of Arcane.
 
 * Website: [link](https://www.falkkone.com/)
 
+### [Bo Burnham](https://en.wikipedia.org/wiki/Bo_Burnham)
+
+* Stand-up comedian, musician, YouTuber, actor, and filmmaker.
+
+* Website: [link](https://www.boburnham.com/)
+* YouTube: [link](https://www.youtube.com/@boburnham)
+
 ## Business experts
 
 ### [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio)
