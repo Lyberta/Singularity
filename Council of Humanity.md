@@ -88,6 +88,12 @@ Writer, co-producer and executive story editor of Arcane.
 * Website: [link](https://www.boburnham.com/)
 * YouTube: [link](https://www.youtube.com/@boburnham)
 
+### [Ricky Gervais](https://en.wikipedia.org/wiki/Ricky_Gervais)
+
+* Comedian, actor, writer, producer, director and musician.
+
+* Website: [link](https://rickygervais.com/)
+
 ## Business experts
 
 ### [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio)
