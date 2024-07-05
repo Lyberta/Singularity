@@ -2,6 +2,8 @@
 
 A system for humans to achieve technological singularity.
 
+*["A strange game. The only winning move is cooperation."](https://www.youtube.com/watch?v=MpmGXeAtWUw) - [WarGames](https://en.wikipedia.org/wiki/WarGames), paraphrased.*
+
 Human brain is a biocomputer. It can be reverse engineered, controlled, predicted. This might can be used to [empower humanity](https://www.youtube.com/watch?v=I7T7hXzkLko) or to [enslave it](https://www.youtube.com/watch?v=zh4gzV_x3UM). For "good" or "evil".
 
 We are all human. [We all have our hopes and dreams](https://www.youtube.com/watch?v=IxJzjgt1qAY). [We all want happiness, for ourselves and loved ones.](https://www.youtube.com/watch?v=tRw26sEEywY) But ["greed has poisoned men's souls, has barricaded the world with hate"](https://www.youtube.com/watch?v=ouzKl0oD6sU) as Charlie Chaplin has said. NO MORE!!!
