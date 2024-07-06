@@ -73,6 +73,28 @@ And the more you understand yourself, the more you [understand other people](htt
 
 Yes, the more accepting our own brains are, the better people we can be towards others. We can be positive, non-judgemental, we can cooperate our of our wisdom, not greed. And what happens next? [Synergy](https://en.wikipedia.org/wiki/Synergy). Cooperation snowballs. Positivity and good vibes create more positivity and good vibes. And thus the whole world is transformed. [Maximum power principle](https://en.wikipedia.org/wiki/Maximum_power_principle). The power of cooperation and good vibes is a universal force. A universal force which was repressed by the lack of maturity of our Universe as a whole. Remember, it all started with Big Bang and elementary particles? Well, now it is time in the history of this planet that the universal force of high-level cooperation wins over the chaos of greed and denial. This is literally the next step of the evolution.
 
+### Mental firewall
+
+The key of personal growth is to learn to confront uncomfortable things without being offended. The world is full of violence and extreme cruelty and the wisest thing we can do is to accept it.
+
+However, once you learn to accept negative things about the world, wasting more mental resources and your own time is not needed. So once the thick skin is developed, it's important to start restructuring your life so you don't encounter negative things.
+
+So, what things to avoid?
+
+#### Negative people
+
+These people invalidate other people's thoughts and feelings. They are generally full of negative internal monologue and self-hatred. These people are like poison and will slowly kill you if you let them.
+
+#### Art about violence
+
+Yes, it's important to preserve the acts of human violence in the art form, yet constantly consuming violent media only reinforces the message of violence on a deep psychological level. Your own brain constantly exists in the cycle of fear and hate. It is not productive at all.
+
+#### General human infrastructure
+
+Human cities tend to look like concrete prisons. Extremely toxic, dystopian and anti-human. They reinforce the message that humans are just lifeless and soulless cogs in the capitalist machine, only existing to waste their life in a boring job for the sake of profit for the wise.
+
+When walking around city, try to focus your attention on grass, trees and any kind of wildlife. It literally helps your brain maintain good chemistry.
+
 ## Systems of chaos, greed, denial and violence in the current world
 
 *"Is it surprising that prisons resemble factories, schools, barracks, hospitals, which all resemble prisons?" - [Michel Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)*
