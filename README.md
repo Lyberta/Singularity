@@ -59,6 +59,46 @@ The rest depends on your skills. Financial literacy is also important. [Poor per
 
 We need all professions. People have [needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). We need to help each other satisfy our needs.
 
+### Parents
+
+Stop imposing arbitrary rules on your children. Accept them for who they are and start working **with** them. Otherwise they'll just run away from you and maybe put you into a nursing home when they're older. Also, women are the same equal people as men. Patriarchy must go.
+
+### Educators (kindergarten/school/college)
+
+Realize that you're a cog in the inhuman machine surrounded by the same cogs. Start helping your students and protecting them, trying to maintain good vibes in class and not scolding anyone for bad grades. They did exactly what they were capable of. Everyone is different, everyone gets a different grade based on the uncountable factors. Maybe your D/F student is just a secret genius who is stuck in prison of abusive parents and just needs a bit of help and encouragement.
+
+Build a mental firewall against administration. Again, they are just stupid apes following their biological programming. What you need to do to to stop being triggered by them. Just think of giving them a mental middle finger behind their back.
+
+### Employers
+
+Start moving your workplace culture from strict conformity and deadlines to fluid setup of small teams and deadlines being movable or nonexistent. Learn to accept the limitations of your employees and work with them.
+
+Train the HR department to spot for compulsive liars. Maybe a person has several PhDs but as an arrogant "narcissist" and a liar, they will only bring trouble. Value honesty and integrity over skills.
+
+### Doctors
+
+Learn to listen carefully to everything your parents say and don't force anything on them. Your greatest value as a doctors should be a loyalty of your patients who were happy to receive helpful drugs or treatment, not abuse and malpractice.
+
+Same mental firewall with adminisatration. You have to learn to stand up for yourself. Don't be afraid to quit and start private practice if your current workplace is too toxic.
+
+### Mental health people
+
+Oof, this is tough one as the whole industry is based on lies and gaslighting. But here you can just learn to be a spy and double agent. Teach your client the skills of journaling and writing autobiography, share the resources to help them taper off the psychiatric drugs. All while maintaining a lie that administration-mandated therapy is working to improve the condition of your patients.
+
+### Cops
+
+Again, the whole system is based on the idea of "punishing" "criminals" while in reality it only exists to catch unlucky people and, in case of commercial prisons, profit from their labor.
+
+People who do the most damage sit on top, protected by the army of expensive lawyers and the old system itself. If you don't feel an extreme rage and an impulse to quit immediately... well, try to maintain good vibes with your coworkers. The rebellion starts within. Don't be too hard on yourself. Baby steps. First, you treat yourself and your fellow cops with respect. Then you treat any suspect with respect too: "Yeah, we all make mistakes but the system..." Those subtle hints can serve to empower people even if they are facing a harsh sentence.
+
+### Lawyers
+
+Oh, this is actually a great place to be because you can teach your client how to look up all the important laws. The society benefits as a whole from people who understand the legal system.
+
+So, when working with a client, the best thing to do is to explain them all the laws that affect their particular case and maybe give them all the resources to look up the rest of the laws themselves.
+
+Again, what you want is loyal legally-educated clients who were happy to receive your services.
+
 ## The awakening process
 
 Well, it all starts with realizing that human brain is a biocomputer. Biological [LLM](https://en.wikipedia.org/wiki/Large_language_model). It has its own hardware and software. But the weights it starts with are very basic. Look at any newborn or a toddler and their behavior. But it slowly [learns over time](https://en.wikipedia.org/wiki/Machine_learning), adjusting the weights to become more in touch with reality.
