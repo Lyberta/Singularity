@@ -47,3 +47,9 @@ At the top level there should be a set of activities, libraries, tags and action
 ## Implementation details
 
 There are 2 modes of implementing this system: transitional mode and pure mode. Transitional mode is designed to run on top on an existing OS. Pure mode gives full control to the ActivityOS. Linux kernel can still be used just like on Android, at least initially.
+
+Actually, [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) seems to be the best base to start coordinated ActivityOS efforts as it already has the Activities button.
+
+GNOME Files (also known as Nautilus) needs to have an ability to add Linux VFS directories as Libraries which would be then be stored in a virtual tag-based file system on a higher level of abstraction. Then libraries can be properly tagged by the user or GNOME itself in case of mechanical tags which can be inferred from the file itself (think [MediaInfo](https://en.wikipedia.org/wiki/MediaInfo)).
+
+Once tagged libraries are implemented, it's all about adding a proper UI to create and manage activities.
