@@ -25,3 +25,27 @@ This also means that keywords should be full words. `function`, not `func` or `f
 ### The language itself should be as fluid as possible
 
 The main paradigm should be [generic programming](https://en.wikipedia.org/wiki/Generic_programming) with [concepts](https://en.wikipedia.org/wiki/Concept_(generic_programming)) being the main tool to design libraries of highly generic and reusable code. Classical [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) uses rigid class hierarchies. Concepts and [type erasure](https://en.wikipedia.org/wiki/Type_erasure) can achieve the same things and more.
+
+### Rich text
+
+This was chosen after a very careful consideration of how functional usage of whitespace to separate tokens has led to profound wars on how to deal with multi-word identifiers. `PascalCase`, `camelCase`, `snake_case`, `kebab-case` - all this insanity and wasted effort and mental resources. By storing the source code in a [rich text](https://en.wikipedia.org/wiki/Formatted_text) format, we finally solve this nonsense and allow developers to have human understandable identifiers in their programs.
+
+Plus, such format will also allow us to carefully store metadata (such as language revision) to empower tooling even further. For example, a source file written in the old revision can be automatically converted to a newer revision upon opening it.
+
+Also, using rich text will send the message that careful highlighting of the source text is expected. Old-style editors like vi[m] and Emacs are inhuman messes that we don't want to deal with. Then, there should be a standard for sharing themes. Different people have different preferences on how their code should be highlighted and having a common standard will encourage cooperation and sharing of highlighting themes.
+
+## Tooling
+
+### Minimize the usage of the command line
+
+Yes, we'll need a full toolchain to be able to run on build servers but it doesn't mean we have to go back to the insane mess of cryptic compiler flags.
+
+The idea is to have every tool invokation be supplied with a configuration file written in standardized format such as [YAML](https://en.wikipedia.org/wiki/YAML) or [TOML](https://en.wikipedia.org/wiki/TOML).
+
+### The most important part - humane IDE
+
+You can't hook new developers onto your language if you make onboarding process too difficult. So we need an IDE that can create a "Hello world!" project in a few clicks. And maybe upload it on GitHub in a few more clicks. That will show developers how easy it is to use the tools and empower them to learn the language further.
+
+Humans are notorious at making mistakes and hate waiting. So first, upon failed compilation, there should be a clear list of errors with clicking on them taking the user to the line containing the error and maybe even suggesting a fix. IDE can also do basic syntax checking as the user types and highlight obvious syntax errors with red squigglies just like most editors with spell checking do.
+
+As for waiting, it's all about making IDE responsive during the build process. In fact, since we're building the language from scratch, it makes perfect sense to write an IPC mechanism to report progress back to the IDE or similar tools. One can easily imagine a live report of the amount of tokens processed, abstract syntax tree built, optimization passes... All of this would be fed back to a nice progress bar (or even a whole progress window if the user wishes so) in the IDE.
