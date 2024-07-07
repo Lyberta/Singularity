@@ -36,6 +36,10 @@ Tag is a certain ontological category the files belong to. It can be something l
 
 Some tags can be smart and imply certain properties. "Image" implies "Resolution", "Bit depth", "Color space" and others. "Person" imples "First name", "Last name", "Location", "Time zone" and others.
 
+### Automatic tags
+
+Automatic tags are tags whose value can be computed by a simple algorithm without human intervention. Think "SHA256 checksum", etc.
+
 ## Action
 
 An action is a set of commands that must be executed with the given file. Actions are defined by the current activity, file tags and file extension. There is a default action too. Clicking on a video file in the "watching a movie" activity should open it in a video player, however, doing the same in the "video editing" activity should add it to project instead.
@@ -53,3 +57,7 @@ Actually, [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) seems to be t
 GNOME Files (also known as Nautilus) needs to have an ability to add Linux VFS directories as Libraries which would be then be stored in a virtual tag-based file system on a higher level of abstraction. Then libraries can be properly tagged by the user or GNOME itself in case of mechanical tags which can be inferred from the file itself (think [MediaInfo](https://en.wikipedia.org/wiki/MediaInfo)).
 
 Once tagged libraries are implemented, it's all about adding a proper UI to create and manage activities.
+
+### Lazy tags
+
+Some automatic tags are too expensive to compute every time the file is changed. Hence, it makes sense to store a flag on file modification that tag value has to be freshly computed next time it is queried. Then there can be a command similar to [`sync`](https://linux.die.net/man/8/sync) to force recomputation of all lazy tags.
