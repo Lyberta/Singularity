@@ -115,11 +115,13 @@ The education system is based on autoritarian rule where teachers assign standar
 
 ### The labor system
 
-Since people where already traumatized into obedience by the "education" system. They are then groomed into looking for a job where their labor will be exploited by the wiser people. Of course, wise people know how the economic and political system *really* works and there are tons of obedient slaves who know no better.
+Since people where already traumatized into obedience by the "education" system. They are then groomed into looking for a job where their labor will be exploited by the wiser people. Also, the hiring process is structured so diplomas are valued more over the actual skills. It's all about obedience. Of course, wise people know how the economic and political system *really* works and there are tons of obedient slaves who know no better.
 
 ### The medicine
 
 Medical system is based on greed and oppression. Doctor is put as an authority over the patient and patient is being gatekept by presciptions for drugs, etc. No wonder there is so much medical malpractice as the system favors arrogance and greed over cooperation.
+
+At the head of it is an authoritarian organization called [World Health Organization](https://en.wikipedia.org/wiki/World_Health_Organization) which publishes the main document called [ICD](https://en.wikipedia.org/wiki/International_Classification_of_Diseases) which dictates what is a "disease" and what is not.
 
 ### Mental health system
 
@@ -136,6 +138,12 @@ Ah yes, where every deviation to the violence of the current system is labeled "
 Just label everything you (as a government) personally don't like a "mental illness". And then the victims are gaslighted [that something is wrong with them](https://www.youtube.com/watch?v=TnL7i35fWQk) poisoned with deadly neurotoxins called "antipsychotics" and "antidepressants", sometimes involuntarily, institutionalized into horrific concentration camps known as "psychiatric hospitals" and in the worst cases [tortured](http://ectjustice.com/) with [electroshock](https://en.wikipedia.org/wiki/Electroconvulsive_therapy).
 
 Everything to kill people, to kill their brains just because their behavior doesn't conform to the delusions of the system.
+
+### Academia
+
+Academia is as authoritarian and corrupt just like everything else. It uses its own form of currency known as ["h-index"](https://en.wikipedia.org/wiki/H-index) and peer review process to get this h-index is rigged by academic publishers to promote their own agenda and maximize their profits.
+
+Any serious paper that tells the truth while going against the status quo will get almost no peer reviews because reviewing such paper would be politically incorrect.
 
 ### The legal system
 
