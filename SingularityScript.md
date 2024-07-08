@@ -34,6 +34,14 @@ Plus, such format will also allow us to carefully store metadata (such as langua
 
 Also, using rich text will send the message that careful highlighting of the source text is expected. Old-style editors like vi[m] and Emacs are inhuman messes that we don't want to deal with. Then, there should be a standard for sharing themes. Different people have different preferences on how their code should be highlighted and having a common standard will encourage cooperation and sharing of highlighting themes.
 
+### No sentinel values
+
+[Null was a billion dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/). C++ started slowly fixing it by adding [`std::optional`](https://en.cppreference.com/w/cpp/utility/optional) but the biggest fix is to not introduce such dangerous stuff in the first place.
+
+### Provide safe language constructs and standard library by default and give unsafe escape hatch for the experts
+
+Again, humans are amazing at creating bugs. So any wrong memory access or logic error should be caught as fast as possible. In fact, at this point I am convinced that simple [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) should crash the program by default. Expert developers will be given expert integers that wrap silently or [saturate](https://en.wikipedia.org/wiki/Saturation_arithmetic) but the average developer can't be expected to know all of this and should be given a very big and explicit error message on overflow.
+
 ## Tooling
 
 ### Provide detailed progress reports
