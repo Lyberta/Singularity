@@ -49,3 +49,9 @@ You can't hook new developers onto your language if you make onboarding process 
 Humans are notorious at making mistakes and hate waiting. So first, upon failed compilation, there should be a clear list of errors with clicking on them taking the user to the line containing the error and maybe even suggesting a fix. IDE can also do basic syntax checking as the user types and highlight obvious syntax errors with red squigglies just like most editors with spell checking do.
 
 As for waiting, it's all about making IDE responsive during the build process. In fact, since we're building the language from scratch, it makes perfect sense to write an IPC mechanism to report progress back to the IDE or similar tools. One can easily imagine a live report of the amount of tokens processed, abstract syntax tree built, optimization passes... All of this would be fed back to a nice progress bar (or even a whole progress window if the user wishes so) in the IDE.
+
+### Any Git (SVN, Mercurial, SMB share) repo is a package you can import into your own project
+
+I mean, why bother inventing a new package format when plain file system combined with methods of sharing files are already invented. Sure, there will need to be a standartized manifest format (like `Cargo.toml` in Rust) but otherwise the most utilitarian approach is to piggyback on other thechnologies that are laready invented and proven to work. Plus, as new methods of sharing data are being invented, we add them to the tooling.
+
+Also, binary packages are limited in general. You can't expect a lone open source developer to compile their package for an exotic architecture or an exotic configuration. By going source first we encourage maximum cooperation and sharing of the code.
