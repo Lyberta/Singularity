@@ -48,16 +48,30 @@ Yes, we'll need a full toolchain to be able to run on build servers but it doesn
 
 The idea is to have every tool invokation be supplied with a configuration file written in standardized format such as [YAML](https://en.wikipedia.org/wiki/YAML) or [TOML](https://en.wikipedia.org/wiki/TOML).
 
-### The most important part - humane IDE
-
-You can't hook new developers onto your language if you make onboarding process too difficult. So we need an IDE that can create a "Hello world!" project in a few clicks. And maybe upload it on GitHub in a few more clicks. That will show developers how easy it is to use the tools and empower them to learn the language further.
-
-Humans are notorious at making mistakes. Upon failed compilation, there should be a clear list of errors with clicking on them taking the user to the line containing the error and maybe even suggesting a fix. IDE can also do basic syntax checking as the user types and highlight obvious syntax errors with red squigglies just like most editors with spell checking do.
-
-There should be a nice and fancy prgress bar (or even a progress window for developers who want the most insight) during the build process.
-
 ### Any Git (SVN, Mercurial, SMB share) repo is a package you can import into your own project
 
 I mean, why bother inventing a new package format when plain file system combined with methods of sharing files are already invented. Sure, there will need to be a standartized manifest format (like `Cargo.toml` in Rust) but otherwise the most utilitarian approach is to piggyback on other thechnologies that are already invented and proven to work. Plus, as new methods of sharing data are being invented, we add them to the tooling.
 
 Also, binary packages are limited in general. You can't expect a lone open source developer to compile their package for an exotic architecture or an exotic configuration. By going source first we encourage maximum cooperation and sharing of the code.
+
+### The most important part - humane IDE
+
+You can't hook new developers onto your language if you make onboarding process too difficult. So we need an IDE that can create a "Hello world!" project in a few clicks. And maybe upload it on GitHub in a few more clicks. That will show developers how easy it is to use the tools and empower them to learn the language further.
+
+So yeah, there should be a nice full-fledged "New project..." wizard. Then there should be a nice window with the list of project dependencies and another nice wizard helping developers import external packages into their project. There should be source templates for simple things.
+
+The main editing window should leverage [Language Server Protocol](https://en.wikipedia.org/wiki/Language_Server_Protocol) providing developers with all the modern conveniences.
+
+Humans are notorious at making mistakes. Upon failed compilation, there should be a clear list of errors with clicking on them taking the user to the line containing the error and maybe even suggesting a fix. IDE can also do basic syntax checking as the user types and highlight obvious syntax errors with red squigglies just like most editors with spell checking do.
+
+There should be a nice and fancy prgress bar (or even a progress window for developers who want the most insight) during the build process.
+
+Once the project is built, it's all about user-friendly debugging with fancy stuff like conditional breakpoints watching the values of variables in real time, etc.
+
+Once the code is proven to work, the next step is documenting it (or at least the public API) so that other people can understand what it does with as minimum effort as possible. Here there should be an automatic documentation generator which would automatically generate the documentation stubs for the original developer to fill. Plus, once we're at this stage, the IDE itself can monitor for changes in public API and highlight missing documentation.
+
+Once the code is built and documented. There should be a unit testing framework. In fact, in ideal case it should parse the documentation with AI and generate unit tests just from the documentation. Here's where fancy stuff like code coverage also comes in. The IDE can generate nice graphs of how well the code is documented, tested, etc.
+
+Finally, once all the stuff is done, there should be a nice wizard to export the project as a package for other developers to import into their own projects (unless it's an end-user executable, of course).
+
+Of course, with the rise of AI there could be a different workflow. Developer can just engineer prompts for some kind of LLM similar to ChatGPT and have it write the actual code. Yet all the coverage tools would still stay the same.
