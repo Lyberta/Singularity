@@ -36,6 +36,12 @@ Also, using rich text will send the message that careful highlighting of the sou
 
 ## Tooling
 
+### Provide detailed progress reports
+
+Old languages wee limited by old tools, most of them written ad hoc without any clear unifying vision. Just people solving immediate problems without thinking big.
+
+Since we're building the language from scratch, it makes perfect sense to write an IPC mechanism to report progress back to the IDE or similar tools. One can easily imagine a live report of the amount of tokens processed, abstract syntax tree built, optimization passes... All of this would be fed back to a nice progress bar in the IDE or a web interface to a CI pipeline.
+
 ### Minimize the usage of the command line
 
 Yes, we'll need a full toolchain to be able to run on build servers but it doesn't mean we have to go back to the insane mess of cryptic compiler flags.
@@ -46,12 +52,12 @@ The idea is to have every tool invokation be supplied with a configuration file 
 
 You can't hook new developers onto your language if you make onboarding process too difficult. So we need an IDE that can create a "Hello world!" project in a few clicks. And maybe upload it on GitHub in a few more clicks. That will show developers how easy it is to use the tools and empower them to learn the language further.
 
-Humans are notorious at making mistakes and hate waiting. So first, upon failed compilation, there should be a clear list of errors with clicking on them taking the user to the line containing the error and maybe even suggesting a fix. IDE can also do basic syntax checking as the user types and highlight obvious syntax errors with red squigglies just like most editors with spell checking do.
+Humans are notorious at making mistakes. Upon failed compilation, there should be a clear list of errors with clicking on them taking the user to the line containing the error and maybe even suggesting a fix. IDE can also do basic syntax checking as the user types and highlight obvious syntax errors with red squigglies just like most editors with spell checking do.
 
-As for waiting, it's all about making IDE responsive during the build process. In fact, since we're building the language from scratch, it makes perfect sense to write an IPC mechanism to report progress back to the IDE or similar tools. One can easily imagine a live report of the amount of tokens processed, abstract syntax tree built, optimization passes... All of this would be fed back to a nice progress bar (or even a whole progress window if the user wishes so) in the IDE.
+There should be a nice and fancy prgress bar (or even a progress window for developers who want the most insight) during the build process.
 
 ### Any Git (SVN, Mercurial, SMB share) repo is a package you can import into your own project
 
-I mean, why bother inventing a new package format when plain file system combined with methods of sharing files are already invented. Sure, there will need to be a standartized manifest format (like `Cargo.toml` in Rust) but otherwise the most utilitarian approach is to piggyback on other thechnologies that are laready invented and proven to work. Plus, as new methods of sharing data are being invented, we add them to the tooling.
+I mean, why bother inventing a new package format when plain file system combined with methods of sharing files are already invented. Sure, there will need to be a standartized manifest format (like `Cargo.toml` in Rust) but otherwise the most utilitarian approach is to piggyback on other thechnologies that are already invented and proven to work. Plus, as new methods of sharing data are being invented, we add them to the tooling.
 
 Also, binary packages are limited in general. You can't expect a lone open source developer to compile their package for an exotic architecture or an exotic configuration. By going source first we encourage maximum cooperation and sharing of the code.
