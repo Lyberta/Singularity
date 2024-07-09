@@ -83,3 +83,17 @@ Once the code is built and documented. There should be a unit testing framework.
 Finally, once all the stuff is done, there should be a nice wizard to export the project as a package for other developers to import into their own projects (unless it's an end-user executable, of course).
 
 Of course, with the rise of AI there could be a different workflow. Developer can just engineer prompts for some kind of LLM similar to ChatGPT and have it write the actual code. Yet all the coverage tools would still stay the same.
+
+## Good proof-of-concept libraries to work on
+
+### Generalized [Newtonian physics](https://en.wikipedia.org/wiki/Classical_mechanics) library
+
+As in, the number of dimensions should be arbitrary and the same code could generate 1D, 2D, 3D, 4D physics, etc. And the number type should also be specified by the user of the library, such as [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) `binary32`, [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) `binary64`, [`bfloat16`](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format), [fixed-point](https://en.wikipedia.org/wiki/Fixed-point_arithmetic), [arbitrary-precision](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic), etc.
+
+### Generalized [ray tracing](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) library
+
+Such library would provide abstract primitives for ray tracing which would then be handled by either [software rendering](https://en.wikipedia.org/wiki/Software_rendering), [DirectX Raytracing](https://en.wikipedia.org/wiki/DirectX_Raytracing), [Vulkan](https://en.wikipedia.org/wiki/Vulkan), [OptiX](https://en.wikipedia.org/wiki/OptiX), etc.
+
+The choice can be either compile-time or run-time. In the second case, there could be a system detector for available APIs which would provide a list for the user to select.
+
+Of course, a demo app could be combined with a physics library to provide a nice ray traced physics sandbox to get users hooked on the language.
