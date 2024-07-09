@@ -61,6 +61,12 @@ Plus, such format will also allow us to carefully store metadata (such as langua
 
 Also, using rich text will send the message that careful highlighting of the source text is expected. Old-style editors like vi[m] and Emacs are inhuman messes that we don't want to deal with. Then, there should be a standard for sharing themes. Different people have different preferences on how their code should be highlighted and having a common standard will encourage cooperation and sharing of highlighting themes.
 
+### Do Unicode right this time, at last!!!
+
+Most people don't even know the difference between "code point" and "scalar value" and misspell the former as "codepoint". Thankfully, yours truly is a Unicode expert and a language lawyer so we'll finally have the language that can actally handle Unicode in a sane way.
+
+There will be a proper iteration over code units, scalar values and extended grapheme clusters provided by the standard library. There will be a compiler-provided [Unicode Character Database](https://www.unicode.org/ucd/) along with the ability to load a user supplied one during the reflection pass and at run-time. Finally, sane Unicode.
+
 ### No sentinel values
 
 [Null was a billion dollar mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/). C++ started slowly fixing it by adding [`std::optional`](https://en.cppreference.com/w/cpp/utility/optional) but the biggest fix is to not introduce such dangerous stuff in the first place.
