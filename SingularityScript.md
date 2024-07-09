@@ -26,6 +26,33 @@ This also means that keywords should be full words. `function`, not `func` or `f
 
 The main paradigm should be [generic programming](https://en.wikipedia.org/wiki/Generic_programming) with [concepts](https://en.wikipedia.org/wiki/Concept_(generic_programming)) being the main tool to design libraries of highly generic and reusable code. Classical [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) uses rigid class hierarchies. Concepts and [type erasure](https://en.wikipedia.org/wiki/Type_erasure) can achieve the same things and more.
 
+### Metadata-based
+
+Old languages were mostly concerned into translation into the assemly language and, ultimately, into the machine code. Hence the emphasis on low-level stuff such as number of bits in the integer types used. But such design misses the elephant in the room - actual problems we're trying to solve.
+
+Plus, once the code started to get big, languages introduced hacks to introduce new names for types such as C's [typedef](https://en.cppreference.com/w/cpp/language/typedef) and C++'s [using](https://en.cppreference.com/w/cpp/language/type_alias). However, they do not introduce new concrete types so one can write nonsensical code such as:
+
+```
+using temperature = float;
+using humidity = float;
+
+temperature human_healthy_temperature = 36.6f;
+
+set_humidity(human_healthy_temperature);
+```
+
+And it will compile, run and produce nonsense. So the new language has to use strong types and these types should have only a very strict amount of operations that make actual sense. The actual integer or floating point types used under the hood are implementation details that should be left to expert developers or taken as template parameters.
+
+Take for example a simple formula of motion:
+
+```
+new_position = old_position + velocity * duration;
+```
+
+Here we have 3 distinct types - absolute position, velocity and duration. But what does `velocity * duration` return? A new type, call it `offset`, `displacement` or whatever. And only certain operations between types makes sense. You move position by the offset but adding positions together doesn't make any sense. So in C++ you'd have 4 different classes with operator overloads between them. And any math that doesn't make sense is a compile error. The logic bugs are caught even before you run a program.
+
+And metadata-based programming solves even classes of vulnerabilities. Take for example an SQL injection? Where rogue user-typed string is interpreted directly and allows attacker to perform arbitrary SQL queries on a server? Well, imagine we had a library that uses `sql_unescaped_string` and `sql_escaped_string` and the only way to get `sql_escaped_string` would be to use library-proven code and `sql_escaped_string` is either immutable or checks for escape/escapes the string manually every time it is modified. And we only execute queries with `sql_escaped_string`. Now any code written with such library is immune to SQL injection because escaping of all of the strings is enforced by the library at the type system level. You can't physically pass an unescaped string, it will not compile. We just solved the whole class of attacks with a sound type system. This is what metadata-based programming is about.
+
 ### Rich text
 
 This was chosen after a very careful consideration of how functional usage of whitespace to separate tokens has led to profound wars on how to deal with multi-word identifiers. `PascalCase`, `camelCase`, `snake_case`, `kebab-case` - all this insanity and wasted effort and mental resources. By storing the source code in a [rich text](https://en.wikipedia.org/wiki/Formatted_text) format, we finally solve this nonsense and allow developers to have human understandable identifiers in their programs.
