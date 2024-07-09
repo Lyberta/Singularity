@@ -65,7 +65,7 @@ Also, using rich text will send the message that careful highlighting of the sou
 
 Most people don't even know the difference between "code point" and "scalar value" and misspell the former as "codepoint". Thankfully, yours truly is a Unicode expert and a language lawyer so we'll finally have the language that can actally handle Unicode in a sane way.
 
-There will be a proper iteration over code units, scalar values and extended grapheme clusters provided by the standard library. There will be a compiler-provided [Unicode Character Database](https://www.unicode.org/ucd/) along with the ability to load a user supplied one during the reflection pass and at run-time. Finally, sane Unicode.
+There will be a proper iteration over code units, scalar values and extended grapheme clusters provided by the standard library. There will be a compiler-provided [Unicode Character Database](https://www.unicode.org/ucd/) along with the ability to load a user supplied one during the reflection pass and at run-time. And of course, local scoped UCDs for [private use areas](https://en.wikipedia.org/wiki/Private_Use_Areas). Finally, sane Unicode.
 
 ### No sentinel values
 
