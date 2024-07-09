@@ -1,4 +1,4 @@
-# Post-human time units
+# Post-human units
 
 Computing is binary. Decimal system is ancient. Let's not live in the past and embrace the future.
 
@@ -26,4 +26,4 @@ However, expressing all number as quantities of Planck units seems to be difficu
 
 It is peculiar that in both cases `2^128` seems to be a reasonable unit of measurement and given that `256` bits should be enough, it seems like a `256` bit fixed point type equally split into integer and fractional parts is a good fundamental implementation choice until fundamental laws of physics change, and in meantime we can trim both parts in half to get a `128` bit type that is suitable for all currently known intents and purposes.
 
-It seems like `2^128/1` ratio will be one of the most important ratios in physics. It's a shame it didn't get an IEC prefix yet.
+It seems like `2^128/1` ratio will be one of the most important ratios in physics. It's a shame it didn't get an [IEC prefix](https://en.wikipedia.org/wiki/Binary_prefix) yet.
