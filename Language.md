@@ -12,7 +12,15 @@ From a bird's eye view, the problem of designing a perfect language is a numbers
 
 Basically, every [phoneme](https://en.wikipedia.org/wiki/Phoneme) has flow, "vibes". Some phonemes are percieved positively, some negatively. So building the language of Truth would require assigning truthful words and behavior "good vibes" while assigning words related to delusions and related behavior "bad vibes". After that, people who speak positive things are subconsciously empowered with good vibes while people who are engaging in behavior that is not constructive to building the Empire of Truth will get bad vibes, their brain chemistry will be affected and the language itself will do the systemic change of minimizing harmful thoughts and behavior.
 
-TODO: Write more.
+### Biggest language architects - teenagers
+
+Of course, due to the authoritarian nature of the family system and social roles and definitions parents put on their children, teenagers are forced to rebel and create new language just to distance themselves from "old farts who know nothing".
+
+Thankfully, they still need this new slang to be utilitarian so it has a certain degree of truth behind and is actually way more truthful than the language of the previous generation. As old delusional social constructs get destroyed by technology, teenagers help advance the language into a new, better future.
+
+Hence why any change proposed should be able to pass the "teenager test". Can an edgy teenager rebelling against their parents accept our change to the language? If yes - good, if not - we failed and need to try something different.
+
+---
 
 Since this project is utilitarian, we'll start with the English language as the most common one already as a starting point.
 
