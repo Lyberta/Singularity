@@ -4,6 +4,16 @@
 
 We need a simple universal language for beings to exchange information with minimum overhead. Right now, humanity suffers from the lack of unification and unnecessary rules in the old languages that make humans waste so much mental energy to write things correctly. Old languages put grammar before the people. We need to put people before the grammar.
 
+## High-level overview
+
+Language is a social construct. It's a set of rules, letters and sounds that people use to exchange information. The primary purpose of the language is to exchange information. The secondary purpose of the language is to convey certain emotional coloring. However, emotions are subjective so the same message can be percieved very differently by different people. Plus, humans have fought over definitions since the language was first invented.
+
+From a bird's eye view, the problem of designing a perfect language is a numbers game. [An optimization problem](https://en.wikipedia.org/wiki/Optimization_problem). It requires the correct cognitive model of the human brain and careful application of psychoacoustics and social engineering.
+
+Basically, every [phoneme](https://en.wikipedia.org/wiki/Phoneme) has flow, "vibes". Some phonemes are percieved positively, some negatively. So building the language of Truth would require assigning truthful words and behavior "good vibes" while assigning words related to delusions and related behavior "bad vibes". After that, people who speak positive things are subconsciously empowered with good vibes while people who are engaging in behavior that is not constructive to building the Empire of Truth will get bad vibes, their brain chemistry will be affected and the language itself will do the systemic change of minimizing harmful thoughts and behavior.
+
+TODO: Write more.
+
 Since this project is utilitarian, we'll start with the English language as the most common one already as a starting point.
 
 ## Changes to the English language
