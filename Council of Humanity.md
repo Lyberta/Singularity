@@ -67,6 +67,8 @@
 
 ### Creative team behind [This War of Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
 
+### Creative team behind [Night in the Woods](https://en.wikipedia.org/wiki/Night_in_the_Woods)
+
 ### [Justin Roiland](https://en.wikipedia.org/wiki/Justin_Roiland)
 
 * Voice actor, animator, writer, producer, and director.
