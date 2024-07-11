@@ -59,15 +59,13 @@
 
 * Website: [link](https://philipglass.com/)
 
-### Amanda Overton
+### Creative team behind [Arcane](https://en.wikipedia.org/wiki/Arcane_(TV_series))
 
-Writer, co-producer and executive story editor of Arcane.
+### Creative team behind [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)
 
-* IMDb: [link](https://www.imdb.com/name/nm3354758/)
-* Twitter: [link](https://twitter.com/leeloo104)
-* Instagram: [link](https://www.instagram.com/leeloo10481)
-* Facebook: [link](https://www.facebook.com/amandajoverton)
-* Reddit: [link](https://www.reddit.com/user/leeloo104)
+### Creative team behind [Spec Ops: The Line](https://en.wikipedia.org/wiki/Spec_Ops:_The_Line)
+
+### Creative team behind [This War of Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
 
 ### [Justin Roiland](https://en.wikipedia.org/wiki/Justin_Roiland)
 
