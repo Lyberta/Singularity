@@ -17,3 +17,10 @@ So. Unlike free software movement (or even open-source-software movement), this 
 People are exactly as they are. You either write a software for people and people will use it, giving you loyalty, money and market share, or you write a software to pander to your own delusions and will either stay alone, be known as another cult leader or [Terry A. Davis](https://en.wikipedia.org/wiki/Terry_A._Davis).
 
 *"If you build it, they will come." - [Mandela effect'd](https://en.wikipedia.org/wiki/False_memory#Mandela_effect) from [Field of Dreams](https://en.wikipedia.org/wiki/Field_of_Dreams)*
+
+## A note about piracy
+
+Oh yes, piracy, how could I forget about it? Well, if people pirate your software, then:
+
+1. Your software is so good that people without the money are willing to spend their time and effort to acquire it anyway.
+2. Your license and distribution terms are out of touch with reality. Maybe the software is too expensive, doesn't have multi-tier pricing to maximize the customer base or the license terms are too strict. This especially applies to always online services tied to the software. People like privacy and sometimes staying offline. So change your business practices accordingly. Build ramps, not walls.
