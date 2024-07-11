@@ -165,7 +165,7 @@ Medical system is based on greed and oppression. Doctor is put as an authority o
 
 At the head of it is an authoritarian organization called [World Health Organization](https://en.wikipedia.org/wiki/World_Health_Organization) which publishes the main document called [ICD](https://en.wikipedia.org/wiki/International_Classification_of_Diseases) which dictates what is a "disease" and what is not.
 
-Of course, a lot of drugs exist only to mask the symptoms the patient feels, not the cause of the problem. Big Pharma puts profit over people like any insitution of greed, violence, oppression and mass murder. And only the biggest cases such as opioid epidemic ([I](https://www.youtube.com/watch?v=5pdPrQFjo2o), [II](https://www.youtube.com/watch?v=-qCKR6wy94U), [III](https://www.youtube.com/watch?v=uaCaIhfETsM)) are being called out.
+Of course, a lot of drugs exist only to mask the symptoms the patient feels, not the cause of the problem. Big Pharma puts profit over people like any institution of greed, violence, oppression and mass murder. And only the biggest cases such as opioid epidemic ([I](https://www.youtube.com/watch?v=5pdPrQFjo2o), [II](https://www.youtube.com/watch?v=-qCKR6wy94U), [III](https://www.youtube.com/watch?v=uaCaIhfETsM)) are being called out.
 
 ### Mental health system
 
