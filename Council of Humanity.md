@@ -67,6 +67,10 @@
 
 ### Creative team behind [This War of Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
 
+### [Fullbright](https://en.wikipedia.org/wiki/Fullbright_(company))
+
+* Wikipedia says that there is one person in the company right now, but seriously, everyone who genuinely worked on Gone Home and Tacoma are in.
+
 ### Creative team behind [Night in the Woods](https://en.wikipedia.org/wiki/Night_in_the_Woods)
 
 ### [Justin Roiland](https://en.wikipedia.org/wiki/Justin_Roiland)
