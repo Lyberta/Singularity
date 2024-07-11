@@ -12,6 +12,14 @@ Once tagged libraries are implemented, it's all about adding a proper UI to crea
 
 People already have web browsers installed on their computing devices. We can ease the migration to ActivityOS by offering it as an app on the Web.
 
+## Phases
+
+One can envision the development in phases. And it makes to brainstorm for both ends.
+
+### Final phase
+
+In this phase the system knows the user even better than the user themselves. It automatically figures out the needed activity and sets all the files in advance so the user is left with the absolute minium amount of work. 99% of stuff is automated.
+
 ### Lazy tags
 
 Some automatic tags are too expensive to compute every time the file is changed. Hence, it makes sense to store a flag on file modification that tag value has to be freshly computed next time it is queried. Then there can be a command similar to [`sync`](https://linux.die.net/man/8/sync) to force recomputation of all lazy tags.
