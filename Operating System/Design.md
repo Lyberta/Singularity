@@ -47,17 +47,3 @@ An action is a set of commands that must be executed with the given file. Action
 ## Keep things fluid, avoid rigid heirarchies
 
 At the top level there should be a set of activities, libraries, tags and actions. Each activity can have more than 1 library. Each library can belong into more than 1 activity. Etc. It's all graphs, not trees.
-
-## Implementation details
-
-There are 2 modes of implementing this system: transitional mode and pure mode. Transitional mode is designed to run on top on an existing OS. Pure mode gives full control to the ActivityOS. Linux kernel can still be used just like on Android, at least initially.
-
-Actually, [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) seems to be the best base to start coordinated ActivityOS efforts as it already has the Activities button.
-
-GNOME Files (also known as Nautilus) needs to have an ability to add Linux VFS directories as Libraries which would be then be stored in a virtual tag-based file system on a higher level of abstraction. Then libraries can be properly tagged by the user or GNOME itself in case of mechanical tags which can be inferred from the file itself (think [MediaInfo](https://en.wikipedia.org/wiki/MediaInfo)).
-
-Once tagged libraries are implemented, it's all about adding a proper UI to create and manage activities.
-
-### Lazy tags
-
-Some automatic tags are too expensive to compute every time the file is changed. Hence, it makes sense to store a flag on file modification that tag value has to be freshly computed next time it is queried. Then there can be a command similar to [`sync`](https://linux.die.net/man/8/sync) to force recomputation of all lazy tags.
