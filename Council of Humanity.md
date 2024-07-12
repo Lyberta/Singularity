@@ -131,6 +131,12 @@
 
 * Website: [link](https://www.iamjohnoliver.com/)
 
+### [Hasan Minhaj](https://en.wikipedia.org/wiki/Hasan_Minhaj)
+
+* Comedian, writer, producer, actor and television host.
+
+* Website: [link](https://www.hasanminhaj.com/)
+
 ### [Bill Maher](https://en.wikipedia.org/wiki/Bill_Maher)
 
 * Comedian, writer, producer, political commentator, actor, and television host.
