@@ -166,6 +166,12 @@ Philosopher, efilist.
 * Website: [link](http://www.efilism.com/)
 * YouTube: [link](https://www.youtube.com/@inmendham)
 
+### exurb1a
+
+YouTube: [link](https://www.youtube.com/@Exurb1a)
+Facebook: [link](https://www.facebook.com/exurb1a/)
+Patreon: [link](https://www.patreon.com/exurb1r)
+
 ### [Abigail Thorn](https://en.wikipedia.org/wiki/Abigail_Thorn)
 
 * YouTuber, actress, and playwright.
