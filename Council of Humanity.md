@@ -169,6 +169,16 @@
 
 * Website: [link](https://www.blackswanltd.com/chris-voss)
 
+## Lawyers
+
+### Leonard French
+
+* Tinkerer, programmer, and lawyer.
+
+* Website: [link](https://lawfulmasses.com/)
+* X: [link](https://twitter.com/leonardjfrench)
+* Patreon: [link](https://patreon.com/ljfrench)
+
 ## Firearms experts
 
 ### Brandon Herrera
