@@ -84,6 +84,15 @@
 
 * Website: [link](https://www.goldfrapp.com/)
 
+### Harry Brewis
+
+* YouTuber, activist.
+
+* Raised more than $347,000 for the trans charity during his 57-hour Donkey Kong 64 Twitch stream.
+
+* YouTube: [link](https://www.youtube.com/@hbomberguy)
+* Patreon: [link](https://www.patreon.com/hbomb)
+
 ### MarcoMeatball
 
 * Former pro opera singer, turned voice actor, turned youtuber.
