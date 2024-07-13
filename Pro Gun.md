@@ -1,6 +1,6 @@
 # Guns don't kill people, people do
 
-"Hell is other people" - Jean-Paul Sartre
+*["Hell is—other people!"](https://www.youtube.com/watch?v=AeGEv0YVLtw) - [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre), [No Exit](https://en.wikipedia.org/wiki/No_Exit)*
 
 In the topic of [gun politics and firearms regulation](https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation) people often focus on the mindless tool that is doing the killing, not what happens in the mind of a shooter. So, unaware of their own ignorance, people are quick to push for strict regulation on the distribution and ownership of firearms. So then when a wise criminal finally devise their plan of a mass shooting or terrorism, they are no responsible [concealed carry](https://en.wikipedia.org/wiki/Concealed_carry) people to stop the shooting. [Buffalo shooter](https://en.wikipedia.org/wiki/2022_Buffalo_shooting) has purposefully chosen the area that has the most strict gun laws to make sure that he manages to kill as many people as possible without interference.
 
