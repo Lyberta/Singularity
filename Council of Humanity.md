@@ -164,6 +164,22 @@
 
 * Website: [link](https://www.blackswanltd.com/chris-voss)
 
+## Firearms experts
+
+### Brandon Herrera
+
+* Website: [link](https://www.theakguy.com/)
+* YouTube: [link](https://www.youtube.com/@BrandonHerrera)
+* X: [link](https://twitter.com/TheAKGuy)
+* Instagram: [link](https://instagram.com/realbrandonherrera)
+
+### [Jonathan Ferguson](https://en.wikipedia.org/wiki/Jonathan_Ferguson)
+
+* Firearm historian and author.
+* Became popular from GameSpot's "Firearm Expert Reacts" series.
+
+* YouTube: [link](https://www.youtube.com/@RoyalArmouries)
+
 ## Modern day philosophers
 
 ### [David Benatar](https://en.wikipedia.org/wiki/David_Benatar)
