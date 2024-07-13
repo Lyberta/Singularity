@@ -184,6 +184,17 @@
 
 * Website: [link](https://www.blackswanltd.com/chris-voss)
 
+### [Linus Sebastian](https://en.wikipedia.org/wiki/Linus_Sebastian)
+
+* CEO of Linus Media Group.
+
+YouTube: [link](https://www.youtube.com/@LinusTechTips)
+
+### Gamers Nexus
+
+* Website: [link](https://gamersnexus.net/)
+* YouTube: [link](https://www.youtube.com/@GamersNexus)
+
 ## Lawyers
 
 ### Leonard French
