@@ -190,6 +190,20 @@ Academia is as authoritarian and corrupt just like everything else. It uses its 
 
 Any serious paper that tells the truth while going against the status quo will get almost no peer reviews because reviewing such paper would be politically incorrect.
 
+### Economic system
+
+What do you actually own? Think about it. If other people want to steal stuff from you and they have the power - they will do it. Or the Universe can give you a big middle finger and make you lose most of your life to a [natural disaster](https://en.wikipedia.org/wiki/Natural_disaster). So, reality is, might makes right and you don't really own anything.
+
+However, people love living in delusions and they've created social constructs such as ["private property"](https://en.wikipedia.org/wiki/Private_property) and ["intellectual property"](https://en.wikipedia.org/wiki/Intellectual_property). Now to exchange goods and services, people have created another social construct - ["fiat money"](https://en.wikipedia.org/wiki/Fiat_money). Previously, money was backed by gold but since the end of the [Bretton Woods system](https://en.wikipedia.org/wiki/Bretton_Woods_system), the money is backed only by the faith in the system. It's a religious token, if you will.
+
+So, once you have the delusion of property and religious tokens serving as a means of exchanging the ownership of stuff, you have a perfect setup to fool the masses into a life of poverty while getting yourself filthy rich.
+
+Of course, this whole scam is being carefully exploited by bankers, shareholders, stock traders... Plus, why not create more barriers to make the general population even poorer? Credits, mortgages, rent - it's all about keeping the people poor while maintaining the control over the real assets.
+
+Plus, humans love shiny things, why not sell them virtual shiny things for "real money"? [Microtransactions](https://en.wikipedia.org/wiki/Microtransaction), [loot boxes](https://en.wikipedia.org/wiki/Loot_box), [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token)...
+
+The economic system works well with the "education" system to create financially illiterate zombies who spend their time in a dead-end job while spending their salary on things they may not really want but compelled to buy due to psychological manipulation.
+
 ### The legal system
 
 *"The state calls its own violence law, but that of the individual, crime." - [Max Stirner](https://en.wikipedia.org/wiki/Max_Stirner)*
