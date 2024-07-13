@@ -30,6 +30,12 @@
 
 ### Bill Nye???
 
+### [Mark Rober](https://en.wikipedia.org/wiki/Mark_Rober)
+
+* YouTuber, engineer, inventor, and educator.
+
+* YouTube: [link](https://www.youtube.com/@MarkRober)
+
 ## Creative people in touch with their emotions
 
 ### [Toby Fox](https://en.wikipedia.org/wiki/Toby_Fox)
