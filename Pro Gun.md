@@ -1,0 +1,7 @@
+# Guns don't kill people, people do
+
+"Hell is other people" - Jean-Paul Sartre
+
+In the topic of [gun politics and firearms regulation](https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation) people often focus on the mindless tool that is doing the killing, not what happens in the mind of a shooter. So, unaware of their own ignorance, people are quick to push for strict regulation on the distribution and ownership of firearms. So then when a wise criminal finally devise their plan of a mass shooting or terrorism, they are no responsible [concealed carry](https://en.wikipedia.org/wiki/Concealed_carry) people to stop the shooting. [Buffalo shooter](https://en.wikipedia.org/wiki/2022_Buffalo_shooting) has purposefully chosen the area that has the most strict gun laws to make sure that he manages to kill as many people as possible without interference.
+
+TODO: Stuff about government recruiting young and vulnerable people to fight in its wars, then tossing them to VA only for them to be poisoned with deadly neurotoxins and left for dead, Veitnam veterans campaigning for PTSD to be added to DSM-III. Promoting gun safety and castle doctrine. Talking about certain airsoft people not knowing war and treating it like another game. Promoting serious airsoft. Mentioning serious movies about war such as Full Metal Jacket and Apocalypse Now, serious milsims such as Insurgency, Arma 3 and Squad.
