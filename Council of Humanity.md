@@ -137,6 +137,13 @@
 
 * Website: [link](https://www.hasanminhaj.com/)
 
+### [Johnny Harris](https://en.wikipedia.org/wiki/Johnny_Harris_(journalist))
+
+* YouTuber, filmmaker, and independent journalist.
+
+* Website: [link](https://www.johnnyharris.ch/)
+* YouTube: [link](https://www.youtube.com/@johnnyharris)
+
 ### [Bill Maher](https://en.wikipedia.org/wiki/Bill_Maher)
 
 * Comedian, writer, producer, political commentator, actor, and television host.
