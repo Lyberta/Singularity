@@ -84,7 +84,7 @@
 
 * Website: [link](https://www.goldfrapp.com/)
 
-### Harry Brewis
+### [Harry Brewis](https://en.wikipedia.org/wiki/Hbomberguy)
 
 * YouTuber, activist.
 
