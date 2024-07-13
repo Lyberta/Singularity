@@ -51,6 +51,7 @@ However, you can talk to us on:
 * A perfect economy where each individual is given just enough work and deadlines that are actually reasonable. Where every worker is valued for exactly the amount of work they are capable of doing.
 * Recognition of each person as an individual with their individual preferences and a guaranteed safe space to enjoy those preferences. No more forced conformity. Freedom for all.
 * Abolition of the forms of greed such as [copyright](https://en.wikipedia.org/wiki/Copyright), [patents](https://en.wikipedia.org/wiki/Patent) and [trademarks](https://en.wikipedia.org/wiki/Trademark). People spend more time in the court of law suing each other, studying horribly long [license agreements](https://en.wikipedia.org/wiki/End-user_license_agreement) or clicking through them without reading, spending a long time to [choose a license](https://choosealicense.com/) for their works. All this time is wasted and could have been invested into something more productive.
+* [Planetary defense system](https://en.wikipedia.org/wiki/Asteroid_impact_avoidance) to make sure sure don't [go extinct like dinosaurs](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event).
 
 ## What can you do
 
