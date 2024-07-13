@@ -192,8 +192,16 @@ YouTube: [link](https://www.youtube.com/@LinusTechTips)
 
 ### Gamers Nexus
 
+PC hardware reviews, game benchmarks, component analysis.
+
 * Website: [link](https://gamersnexus.net/)
 * YouTube: [link](https://www.youtube.com/@GamersNexus)
+
+### [Pine64](https://en.wikipedia.org/wiki/Pine64)
+
+Hong Kong-based organization that designs, manufactures, and sells single-board computers, notebook computers, as well as smartwatch/smartphones.
+
+* Website: [link](https://pine64.org/)
 
 ## Lawyers
 
