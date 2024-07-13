@@ -119,6 +119,11 @@
 * Website: [link](https://www.boburnham.com/)
 * YouTube: [link](https://www.youtube.com/@boburnham)
 
+### Ross Scott
+
+* Website: [link](https://www.accursedfarms.com/)
+* YouTube: [link](https://www.youtube.com/@Accursed_Farms)
+
 ### [Ricky Gervais](https://en.wikipedia.org/wiki/Ricky_Gervais)
 
 * Comedian, actor, writer, producer, director and musician.
