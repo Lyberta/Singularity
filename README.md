@@ -30,7 +30,10 @@ However, note that this is not the usual project with authoritarian rule. The ma
 
 However, you can talk to us on:
 
-* Matrix: [#singularity-movement:matrix.org](https://matrix.to/#/%23singularity-movement%3Amatrix.org)
+### [Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol))
+
+* Space: [#singularity-movement:matrix.org](https://matrix.to/#/%23singularity-movement%3Amatrix.org)
+* Main Public Room: [#singularity-public:matrix.org](https://matrix.to/#/%23singularity-public%3Amatrix.org)
 
 ## But also
 
