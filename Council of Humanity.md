@@ -233,6 +233,14 @@ Hong Kong-based organization that designs, manufactures, and sells single-board 
 
 * YouTube: [link](https://www.youtube.com/@RoyalArmouries)
 
+### Creative team behind [Tom Clancy's Rainbow Six](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_(video_game))
+
+### Creative team behind [Tom Clancy's Ghost Recon](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_(2001_video_game))
+
+### Creative team behind [Insurgency](https://en.wikipedia.org/wiki/Insurgency_(video_game))
+
+### Creative team behind [Arma 3](https://en.wikipedia.org/wiki/Arma_3)
+
 ## Modern day philosophers
 
 ### [David Benatar](https://en.wikipedia.org/wiki/David_Benatar)
