@@ -217,7 +217,7 @@ Hong Kong-based organization that designs, manufactures, and sells single-board 
 * X: [link](https://twitter.com/leonardjfrench)
 * Patreon: [link](https://patreon.com/ljfrench)
 
-## Firearms experts
+## Firearms/military experts
 
 ### Brandon Herrera
 
@@ -240,6 +240,8 @@ Hong Kong-based organization that designs, manufactures, and sells single-board 
 ### Creative team behind [Insurgency](https://en.wikipedia.org/wiki/Insurgency_(video_game))
 
 ### Creative team behind [Arma 3](https://en.wikipedia.org/wiki/Arma_3)
+
+### Creative team behind [Call of Duty 4: Modern Warfare](https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare)
 
 ## Modern day philosophers
 
