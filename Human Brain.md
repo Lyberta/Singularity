@@ -34,18 +34,52 @@ This is where things like philosophy, human rights and serious science and engin
 
 ## Levels of development
 
+The high-level algorithm of the brain is the [executive function](https://en.wikipedia.org/wiki/Executive_functions). Each person has a different algorithm and we can note the 4 stages of the complexity of the executive function.
+
 ### Highly rigid behavior
 
-TODO: "autism" and stuff
+This is the lowest complexity of the executive function, usually labeled ["autism"](https://en.wikipedia.org/wiki/Autism) and [Asperger syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome).
+
+Individuals with this level of development usually follow a very rigid daily schedule and focus their attention on something very specific, usually labeled ["special interest"](https://en.wikipedia.org/wiki/Special_interest_(autism)). Any form of disturbance is usually met with shock, stupor or a temper tantrum.
+
+Their rigidity also tends to manifest itself in desire to categorize everything in a perfect order, again, so their rigid brain feels at ease. They tends to be relatively asocial and prefer to stay alone in activities that they find comfortable. The rigidity is so persavise that it manifests itself with low-level systems too such as people being overwhelmed with too much noise or blinking lights and require [sensory rooms](https://en.wikipedia.org/wiki/Sensory_room) to relax themselves after the assault on their senses by the ruthless outdoors.
+
+In social settings they are usually shy and awkward, unless, of course, the setting is labeled specifically for them in which case they tend to display highly authoritarian behavior and demand that their rigidity is catered to at all costs.
+
+Beings of absolutes.
+
+Of course, their love life tends to be non-existent and they are usually given some low-level jobs usually requiring minimum amount of skills. Unless they're "highly functioning" in which case they usually go into [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) where their job mostly requires just working with a computer and scientific equipment and minimum amount of social interaction.
 
 ### Socially acceptable behavior
 
-TODO: Herd mentality, etc
+Well, the second stage is your typical "upstanding citizen". These people learn all basic social norms without much effort and just start obeying them for the benefit of being accepted by society, a stable job, spouse, etc. Historically, these people tended to accept whatever religion was common in their area too.
+
+So, they run on mainstream narrative and just try to not get too far away from anything considered "normal". However, since human brain actually deviates from social norms, somewhat severely so, these people tend to develop split personality, trying to stay in denial of parts of themselves that are "socially unacceptable". [Carl Jung](https://en.wikipedia.org/wiki/Carl_Jung) called these parts ["shadow"](https://en.wikipedia.org/wiki/Shadow_(psychology)).
+
+This repression usually manifests itself in certain psychological problems. For example, the most loud and violent homophobes tend to be closeted gays themselves.
+
+Plus, since people are expected to exist in several social setings with conflicting rules, people tend to develop an unconscious mask for each social setting, existing in a web of lies they are not aware of themselves.
+
+Well, such dissociated people usually have average lives of a working class citizen.
 
 ### Conscious acting
 
-TODO: Psychologically profiling other people and creating different false narratives for each one
+Yes, the real fun stuff happens when people become acutely aware of lies of different social settings and start figuring the actual rules out. This is where self-improvement mentality kicks in and people start working hard on themselves.
+
+This is where self-therapy via journaling starts. And also careful psychological profiling of other people. Because the more you understand yourself, the more you understand other people. The lies and rigidity starts slowly breaking down and it gives way to self-acceptance and more fluid behavior.
+
+In a way, the brain starts slowly reprogramming itself away from rigitity of mainstream lies and into a fluid behavior based on each individual social setting. However, this requires facing all the lies, insecurities and fears within.
+
+So essentially, there are 2 layers now. The rigid core inherited from the previous 2 stages of psychological development and fluid shell allowing one to display a much wider range of behavior.
+
+These people start breaking away from norms and either go freelance, start chasing upper management positions or find other ways to maximize their asset portfolio.
 
 ### Method acting
 
-TODO: Extreme degree of self-awareness, fusing false persona with emotional wiring, being able to act out genuine emotions using false narrative, effortless voice inflections, microexpressions, body language. A perfect shapeshifter. A perfect liar. A perfect politician.
+The final stage of psychological development. This is where all the rigidity gives way to fluidity. What's left is a tiny inner core of identity that is covered by a huge ball of fluidity that allows for basically unlimited range of behavior.
+
+This is where self-awareness achieves such strength that these people dive into their own subsconscious and emotional wiring, decoupling it from all the unconscious structures and allowing it to be wired to false narratives on demand. So this is where pure authenticity blossoms and acting can't be separated from honesty anymore. Voice inflections, microexpressions and body language become effortless and even unconscious. [Unconscious competence](https://en.wikipedia.org/wiki/Four_stages_of_competence).
+
+These people feel at home in basically any social setting and find ways to negotiate basically anything, no matter how outrageous or outlandish. A perfect shapeshifter. A perfect liar. A perfect politician.
+
+Of course, this is where even Hollywood money may be a bit too little. Such exceptional individuals get hired as spies for intelligence agencies, become CEOs, politicians, get high-level jobs in the banking sector...
