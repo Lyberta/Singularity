@@ -32,6 +32,10 @@ This is the most advanced algorithm and is engaged the last. It recognizes both 
 
 This is where things like philosophy, human rights and serious science and engineering come into play. Again, depending on the level of development of the individual, this algorithm tries to weight the interests of all the parties involved and find a solution that minimizes loss. So this is where serious politics are being discussed in case of human relations and serious science and engineering when it comes to bending the world to your will. Of course, once you have the knowledge of how human brain really works, you view politics through the lens of science and engineering and just do a careful application of social engineering to achieve your goals.
 
+### Nietzsche was (almost) right
+
+Most notably, [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) has discovered all the same 3 algorithms and labeled them "camel", "lion" and "child". However, what he missed is that those algorithms are context-sensitive. One can be a "child" in an area of expertise they know a lot and a "camel" in an area of life they are just discovering.
+
 ## Levels of development
 
 The high-level algorithm of the brain is the [executive function](https://en.wikipedia.org/wiki/Executive_functions). Each person has a different algorithm and we can note the 4 stages of the complexity of the executive function.
@@ -83,3 +87,17 @@ This is where self-awareness achieves such strength that these people dive into 
 These people feel at home in basically any social setting and find ways to negotiate basically anything, no matter how outrageous or outlandish. A perfect shapeshifter. A perfect liar. A perfect politician.
 
 Of course, this is where even Hollywood money may be a bit too little. Such exceptional individuals get hired as spies for intelligence agencies, become CEOs, politicians, get high-level jobs in the banking sector...
+
+## How to manipulate people
+
+Well, first of all the word "manipulation" has negative connotation but only because the mainstream narrative runs on a lie of acceptable and unacceptable behavior. So, in truth, everything is manipulation. Every social interaction changes your brain a little bit. So this part explores all the methods of manipulation and how they affect the brain and behavior.
+
+Well, and since the brain is a biocomputer then the methods of manipulation come down to "carefully calculated inverse biocomputer" so that the real biocomputer - human brain - slides right in, adjusts itself according to the shape of inverse biocomputer and performs the required behavior.
+
+In general, you want to avoid other people noticing the methods of manipulation and use as little force as possible. Here, "force" represents not only the physical quantity - people hate violence - but also people's subjective values. So the "best" form of manipulation is manipulating people's percieved free will. People already have a set of subjective values, behaviors and goals they want to chase so making them chase their goals while also being useful to you is the best strategy. Hence why tit-for-tat cooperation is so great. Both parties win.
+
+Otherwise, when in comes to manipulation of unconscious puppets, well, you can organize certain gatherings and have like-minded people come, you can set the tone, the music, the dress code... Every tiny bit matters.
+
+Another very effective method is "subtle grooming". In this case you figure out people who are close to what you want. They already have certain desires. Then you slowly empower their desires by very carefully repeating certain words or planting certain objects in their line of sight. Motivational posters are more on the nose type of grooming but it builds over time. Of course, it can be very subtle when you figure out people's unconscious desires and start pulling the strings on those desires - people start acting even without fully knowing why they act.
+
+TODO: Write all the methods in a careful system.
