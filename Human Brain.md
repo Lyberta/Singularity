@@ -42,7 +42,7 @@ The high-level algorithm of the brain is the [executive function](https://en.wik
 
 ### Highly rigid behavior
 
-This is the lowest complexity of the executive function, usually labeled ["autism"](https://en.wikipedia.org/wiki/Autism) and [Asperger syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome).
+This is the lowest complexity of the executive function, usually labeled ["autism"](https://en.wikipedia.org/wiki/Autism) and ["Asperger syndrome"](https://en.wikipedia.org/wiki/Asperger_syndrome).
 
 Individuals with this level of development usually follow a very rigid daily schedule and focus their attention on something very specific, usually labeled ["special interest"](https://en.wikipedia.org/wiki/Special_interest_(autism)). Any form of disturbance is usually met with shock, stupor or a temper tantrum.
 
@@ -87,6 +87,12 @@ This is where self-awareness achieves such strength that these people dive into 
 These people feel at home in basically any social setting and find ways to negotiate basically anything, no matter how outrageous or outlandish. A perfect shapeshifter. A perfect liar. A perfect politician.
 
 Of course, this is where even Hollywood money may be a bit too little. Such exceptional individuals get hired as spies for intelligence agencies, become CEOs, politicians, get high-level jobs in the banking sector...
+
+## Building a better brain
+
+Well, if reading the "Levels of development" section made you feel bad about yourself, don't despair. Just because your own brain right now is not very developed doesn't mean it will stay the same. It all starts with a [growth mindset](https://www.youtube.com/watch?v=kBWfncYv8DA). Saying to yourself: "I can do better."
+
+TODO: Fully explain self-therapy via journaling and writing autobiography, bring Dunning-Kruger effect and especially pain of going down the Valley of Despair, methapor of mining the rock of your own rigidity, being a "biohacker".
 
 ## How to manipulate people
 
