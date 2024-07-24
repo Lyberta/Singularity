@@ -94,6 +94,8 @@ Well, if reading the "Levels of development" section made you feel bad about you
 
 TODO: Fully explain self-therapy via journaling and writing autobiography, bring Dunning-Kruger effect and especially pain of going down the Valley of Despair, methapor of mining the rock of your own rigidity, being a "biohacker".
 
+TODO: The most advanced strategy - desensitization. Actively working towards learning of human atrocities, visiting shock sites, etc.
+
 ## How to manipulate people
 
 Well, first of all the word "manipulation" has negative connotation but only because the mainstream narrative runs on a lie of acceptable and unacceptable behavior. So, in truth, everything is manipulation. Every social interaction changes your brain a little bit. So this part explores all the methods of manipulation and how they affect the brain and behavior.
