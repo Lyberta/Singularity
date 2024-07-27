@@ -26,7 +26,7 @@ In the end we should get a piece that is so Universal that it can be adapted to 
 * YouTube: [link](https://www.youtube.com/watch?v=IJiHDmyhE1A)
 
 
-### No Time For Caution – Hans Zimmer
+### Hans Zimmer - No Time For Caution
 
 * YouTube: [link](https://www.youtube.com/watch?v=kpK4cDk2bRs)
 
