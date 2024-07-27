@@ -8,6 +8,20 @@ Rely on Universal Truth - Planck units, mathematical constants, etc. Avoid decim
 
 In the end we should get a piece that is so Universal that it can be adapted to the ear and brain of any reasonable being existing in the confines of the laws of physics of our Universe.
 
+## General structure
+
+The piece has to be extremely authentic to be truly Universal. Hence why by this virtue it will have to rely mostly on consonant intervals and relatively simple harmonies and common tones. In order to work properly, it has to embrace you like a motherly hug and without words say: "I understand you. You're alive."
+
+## Versions
+
+### Full human version
+
+This version has to be scored for a full orchestra with a mix of instruments from all over the world, signifying unity of different cultures. Of course, can't deny the impeccable beauty of full symphony orchestra but in order to be truly encompassing, there should be more variety.
+
+### Minimalistic version
+
+This version has to be scored for a single human-like being with a single human-like musical instrument. Think [guitar tabs](https://en.wikipedia.org/wiki/Tablature). And it has to have the same emotional impact as the full version.
+
 ## Constants
 
 * Mathematical: [link](https://en.wikipedia.org/wiki/List_of_mathematical_constants)
