@@ -53,6 +53,8 @@
 * Video game director and scenario writer.
 * The mastermind behind NieR and NieR: Automata.
 
+### Creative team behind [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata)
+
 ### [Godfrey Reggio](https://en.wikipedia.org/wiki/Godfrey_Reggio)
 
 * Director of experimental documentary films.
