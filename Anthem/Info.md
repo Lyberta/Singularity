@@ -14,6 +14,12 @@ The piece has to be extremely authentic to be truly Universal. Hence why by this
 
 ## Versions
 
+### Reference version
+
+This version should be tuned to the frequencies of the Universe. Yes, so it would have all kinds of inaudible frequencies that are not musical for humans. In fact, this will require developing a new format for storing music as all current music software is hardcoded to human ears and human brains.
+
+Basically, it would have to be a set of abstract frequencies and abstract time points which would then be adapted to particular species so it can be heard as music.
+
 ### Full human version
 
 This version has to be scored for a full orchestra with a mix of instruments from all over the world, signifying unity of different cultures. Of course, can't deny the impeccable beauty of full symphony orchestra but in order to be truly encompassing, there should be more variety.
