@@ -10,7 +10,7 @@ In the end we should get a piece that is so Universal that it can be adapted to 
 
 ## General structure
 
-The piece has to be extremely authentic to be truly Universal. Hence why by this virtue it will have to rely mostly on consonant intervals and relatively simple harmonies and common tones. In order to work properly, it has to embrace you like a motherly hug and without words say: "I understand you. You're alive."
+The piece has to be extremely authentic to be truly Universal. Hence why by this virtue it will have to rely mostly on consonant intervals and relatively simple harmonies and common tones. In fact, in order to maximize consonance, the piece should be played in [just intonation](https://en.wikipedia.org/wiki/Just_intonation). In order to work properly, it has to embrace you like a motherly hug and without words say: "I understand you. You're alive."
 
 ## Versions
 
