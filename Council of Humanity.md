@@ -53,6 +53,11 @@
 * Video game director and scenario writer.
 * The mastermind behind NieR and NieR: Automata.
 
+### [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe)
+
+* Composer and arranger.
+* Author of Nier and Nier: Automata soundtracks, among many others.
+
 ### Creative team behind [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata)
 
 ### [Godfrey Reggio](https://en.wikipedia.org/wiki/Godfrey_Reggio)
