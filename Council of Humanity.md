@@ -72,13 +72,30 @@
 
 * Website: [link](https://philipglass.com/)
 
+### Creative team behind [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)
+
+### Melina Juergens
+
+* Lead actress in [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice).
+
+* IMDb: [link](https://www.imdb.com/name/nm8750141/)
+* Instagram: [link](https://www.instagram.com/melinajuergensofficial/)
+
+### [VNV Nation](https://en.wikipedia.org/wiki/VNV_Nation)
+
+* Electronic music group.
+
+* Website: [link](https://vnvnation.com/)
+
+### Passarela Death Squad
+
+* Website: [link](https://www.passarella.co.uk/passarella-death-squad)
+
 ### Creative team behind [Arcane](https://en.wikipedia.org/wiki/Arcane_(TV_series))
 
 ### Creative team behind [The Owl House](https://en.wikipedia.org/wiki/The_Owl_House)
 
 ### Creative team behind [She-Ra and the Princesses of Power](https://en.wikipedia.org/wiki/She-Ra_and_the_Princesses_of_Power)
-
-### Creative team behind [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)
 
 ### Creative team behind [Spec Ops: The Line](https://en.wikipedia.org/wiki/Spec_Ops:_The_Line)
 
@@ -106,16 +123,6 @@
 * Singer, songwriter, actress, and activist.
 
 * Website: [link](https://cyndilauper.com/)
-
-### [VNV Nation](https://en.wikipedia.org/wiki/VNV_Nation)
-
-* Electronic music group.
-
-* Website: [link](https://vnvnation.com/)
-
-### Passarela Death Squad
-
-* Website: [link](https://www.passarella.co.uk/passarella-death-squad)
 
 ### [Sia](https://en.wikipedia.org/wiki/Sia)
 
