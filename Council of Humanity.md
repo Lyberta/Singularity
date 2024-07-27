@@ -94,6 +94,34 @@
 
 * Website: [link](https://www.goldfrapp.com/)
 
+### [Cyndi Lauper](https://en.wikipedia.org/wiki/Cyndi_Lauper)
+
+* Singer, songwriter, actress, and activist.
+
+* Website: [link](https://cyndilauper.com/)
+
+### [VNV Nation](https://en.wikipedia.org/wiki/VNV_Nation)
+
+* Electronic music group.
+
+* Website: [link](https://vnvnation.com/)
+
+### Passarela Death Squad
+
+* Website: [link](https://www.passarella.co.uk/passarella-death-squad)
+
+### [Sia](https://en.wikipedia.org/wiki/Sia)
+
+* Singer and songwriter.
+
+* Website: [link](https://www.siamusic.net/)
+
+### [Halestorm](https://en.wikipedia.org/wiki/Halestorm)
+
+* Rock band.
+
+* Website: [link](https://www.halestormrocks.com/)
+
 ### [Harry Brewis](https://en.wikipedia.org/wiki/Hbomberguy)
 
 * YouTuber, activist.
