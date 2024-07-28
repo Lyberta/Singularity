@@ -24,6 +24,26 @@ Basically, it would have to be a set of abstract frequencies and abstract time p
 
 This version has to be scored for a full orchestra with a mix of instruments from all over the world, signifying unity of different cultures. Of course, can't deny the impeccable beauty of full symphony orchestra but in order to be truly encompassing, there should be more variety.
 
+#### Instruments
+
+##### The essense of humanity itself - human voice
+
+Of course, you can't have a human version without the primary musical instrument of humans - their own voice.
+
+##### Western musical tradition
+
+* Symphony orchestra - of course, the crown jewel of human music.
+* Organ - the most grand instrument created.
+* Acoustic guitars - representing many styles. Bringing this intimate feel of a raw string.
+* Electric guitars - bringing a larger palette of sounds. Especially warm backdrops of power chords.
+* Synths - pads, etc...
+
+##### Eastern musical tradition
+
+* Taiko
+* Other percussion potentially
+* Maybe some flourishes with ethnic string and woodwind instruments
+
 ### Minimalistic version
 
 This version has to be scored for a single human-like being with a single human-like musical instrument. Think [guitar tabs](https://en.wikipedia.org/wiki/Tablature). And it has to have the same emotional impact as the full version.
