@@ -220,6 +220,12 @@
 
 ## Business experts
 
+### Gordon Hartman
+
+* Philanthropist and former homebuilder.
+
+* Website: [link](https://www.gordonhartman.com/)
+
 ### [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio)
 
 * Billionaire investor and hedge fund manager.
