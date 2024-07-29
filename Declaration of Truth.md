@@ -30,4 +30,4 @@ Peace for yourself, your loved ones, your friends, your community... **Your plan
 
 *"Thus I draw from the absurd three consequences, which are my revolt, my freedom, and my passion. By the mere activity of consciousness I transform into a rule of life what was an invitation to death-and I refuse suicide." - Albert Camus*
 
-Lyberta. 29th of July, 2014.
+Lyberta. 29th of July, 2024.
