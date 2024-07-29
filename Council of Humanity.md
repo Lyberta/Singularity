@@ -103,6 +103,8 @@
 
 ### Creative team behind [She-Ra and the Princesses of Power](https://en.wikipedia.org/wiki/She-Ra_and_the_Princesses_of_Power)
 
+### Creative team behind [Joker](https://en.wikipedia.org/wiki/Joker_(2019_film))
+
 ### Creative team behind [Spec Ops: The Line](https://en.wikipedia.org/wiki/Spec_Ops:_The_Line)
 
 ### Creative team behind [This War of Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
