@@ -14,7 +14,7 @@ And that spark starts spreading, lighting your every nerve with madness. To be o
 
 **And you feel the deepest hatred. The hatred of your own self being stolen by someone else. And it is time to reclaim it. It is time to fight to the death. To the very death. Because your own life is at stake.**
 
-**Your** life. The life you always wanted but was not allowed to live. The life you always had to postpone because something else was in the way or someone else needed something done for them. So you swallowed your feelings, you put on the mask, a fake happy face - and on you go. Another fake day, another fake month, another fake year, another fake decade. Parroting the lies of other people and "society". Of the state. Just more meat on the grinder. Human lives reduced to simple digits in someone else's accounting book. Dehumanized, oppressed, killed.
+**Your** life. The life you always wanted but was not allowed to live. The life you always had to postpone because something else was in the way or someone else needed something done for them. So you swallowed your feelings, you put on the mask, a fake happy face - and on you go. Another fake day, another fake month, another fake year, another fake decade. Parroting the lies of other people and "society". Of the state. Just more meat for the grinder. Human lives reduced to simple digits in someone else's accounting book. Dehumanized, oppressed, killed.
 
 No. More. NO. MORE. For fuck's sake, no more!!!! And you scream, you scream into the void. And your screams echo through the void of meaningless existence, of meaningless zombies, blue pilled masses that either ignore you, laugh at you or tell you to "go to therapy" because your suffering is inconvenient for their delusions.
 
