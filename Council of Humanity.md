@@ -99,6 +99,8 @@
 
 ### Creative team behind [Arcane](https://en.wikipedia.org/wiki/Arcane_(TV_series))
 
+### Creative team behind [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King)
+
 ### Creative team behind [The Owl House](https://en.wikipedia.org/wiki/The_Owl_House)
 
 ### Creative team behind [She-Ra and the Princesses of Power](https://en.wikipedia.org/wiki/She-Ra_and_the_Princesses_of_Power)
