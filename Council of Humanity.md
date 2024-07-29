@@ -111,6 +111,8 @@
 
 ### Creative team behind [This War of Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
 
+### Creative team behind [Beholder](https://en.wikipedia.org/wiki/Beholder_(video_game))
+
 ### [Fullbright](https://en.wikipedia.org/wiki/Fullbright_(company))
 
 * Wikipedia says that there is one person in the company right now, but seriously, everyone who genuinely worked on Gone Home and Tacoma are in.
