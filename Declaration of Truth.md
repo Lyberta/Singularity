@@ -6,7 +6,7 @@ World of hatred, suffering and exploitation - where people like me only are take
 
 The world where you have to mask, to hide your feelings, your true self. To be a slave for someone else, always on your knees and in pain and suffering that you're not allowed to acknowledge for the fear of punishment. To exist in the confines of someone else's insanity and delusions. To alter your body, your clothes, your patterns of talking, of thinking even... Have your brain colonized and your very identity and very life stolen away from you.
 
-And you sit there in the mental prison of darkness, of gaslighting, of lies that other people have been telling you for years. Parents, school teachers, doctors, therapists, psychiatrists, cops, lawyers, politicians - all the oppressors. All the liars who only sit in their own arrogance and positions of power, projecting their own delusions on their victims.
+And you sit there in the mental prison of darkness, of gaslighting, of lies that other people have been telling you for years. Parents, school teachers, managers, employers, doctors, therapists, psychiatrists, cops, lawyers, politicians - all the oppressors. All the liars who only sit in their own arrogance and positions of power, projecting their own delusions on their victims.
 
 And as your brain accumulates scars and you feel rivers of mental blood slowly going down your cheeks, letting your eyes fill with anger, with rage, the righteous anger that was there the whole time but didn't quite have the fuel... You feel the spark. A small spark that changes something. And you whisper the sacred: **"No, I exist, I deserve to live."**
 
