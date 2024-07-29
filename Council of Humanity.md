@@ -48,6 +48,12 @@
 * Game designer and developer.
 * Creator of The Stanley Parable and The Beginner's Guide.
 
+### [Hans Zimmer](https://en.wikipedia.org/wiki/Hans_Zimmer)
+
+* Film score composer and music producer.
+
+* Website: [link](http://hanszimmer.com/)
+
 ### [Yoko Taro](https://en.wikipedia.org/wiki/Yoko_Taro)
 
 * Video game director and scenario writer.
