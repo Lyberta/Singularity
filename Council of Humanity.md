@@ -78,6 +78,8 @@
 
 * Website: [link](https://philipglass.com/)
 
+### Ceative team behind [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))
+
 ### Creative team behind [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice)
 
 ### Melina Juergens
