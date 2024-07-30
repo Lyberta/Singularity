@@ -36,6 +36,15 @@ This is where things like philosophy, human rights and serious science and engin
 
 Most notably, [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) has discovered all the same 3 algorithms and labeled them "camel", "lion" and "child". However, what he missed is that those algorithms are context-sensitive. One can be a "child" in an area of expertise they know a lot and a "camel" in an area of life they are just discovering.
 
+## Levels of knowledge
+
+1. Stuff that you **don't know** that you **don't know**.
+2. Stuff that you **know** that you **don't know**.
+3. Stuff that you're insecure about and afraid to bring up a subject.
+4. Stuff that you're consciously working on. Actively brainstorming.
+5. Stuff that you figured out but still willing to emotionally defend because of your insecurity.
+6. Stuff that you're so secure about that you don't even think about consciously and use the knowledge automatically. When brought up in discussion, it's either mutual understanding or respectful disagreement and end of the conversation.
+
 ## Levels of development
 
 The high-level algorithm of the brain is the [executive function](https://en.wikipedia.org/wiki/Executive_functions). Each person has a different algorithm and we can note the 4 stages of the complexity of the executive function.
