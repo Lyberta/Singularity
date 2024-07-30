@@ -278,8 +278,15 @@ Hong Kong-based organization that designs, manufactures, and sells single-board 
 * Tinkerer, programmer, and lawyer.
 
 * Website: [link](https://lawfulmasses.com/)
+* YouTube: [link](https://www.youtube.com/@lawfulmasses)
 * X: [link](https://twitter.com/leonardjfrench)
 * Patreon: [link](https://patreon.com/ljfrench)
+
+## Tech people
+
+### [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)
+
+* Computer programmer and video game developer.
 
 ## Firearms/military experts
 
