@@ -70,6 +70,10 @@ This version has to be scored for a single human-like being with a single human-
 
 * YouTube: [link](https://www.youtube.com/watch?v=kpK4cDk2bRs)
 
+### Toby Fox - Undertale
+
+* YouTube: [link](https://www.youtube.com/watch?v=EBhFHJMVfiI)
+
 ### Andrew Prahlow - 14.3 Billion Years
 
 * YouTube: [link](https://www.youtube.com/watch?v=K1R9NA-cseY)
