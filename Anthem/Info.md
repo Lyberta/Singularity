@@ -77,3 +77,7 @@ This version has to be scored for a single human-like being with a single human-
 ### Andrew Prahlow - 14.3 Billion Years
 
 * YouTube: [link](https://www.youtube.com/watch?v=K1R9NA-cseY)
+
+### Johny Cash - Hurt
+
+* YouTube: [link](https://www.youtube.com/watch?v=8AHCfZTRGiI)
