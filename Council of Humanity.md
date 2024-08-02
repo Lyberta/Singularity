@@ -22,6 +22,12 @@
 
 * Website: [link](https://www.besselvanderkolk.com/)
 
+### [David Goggins](https://en.wikipedia.org/wiki/David_Goggins)
+
+* Ultramarathon runner, ultra-distance cyclist, triathlete, public speaker, author of two memoirs.
+
+* Website: [link](https://davidgoggins.com/)
+
 ## Hard scientists who can actually talk to other people, "non-nerds"
 
 ### [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
