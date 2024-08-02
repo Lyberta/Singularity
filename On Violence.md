@@ -42,7 +42,7 @@ Zionists think that they own the world. "We have a literal mind control! We own 
 
 ## Zionists are nothing but weak pathetic apes! Go ahead, FIGHT FOR YOUR TRUTH!!!
 
-And hey, if you ever were mad at them, and just wanted to scream: "Gas the Jews!" - I understand you. **"Gas the Jews" is just a primal scream of your very soul to reclaim what's stolen from you.** That's why everything about Hitler is so censored - so they can maintain their system of mass murder. Hitler is just a tool to kill people in the 21st century. It's ok to let your blood boil. **It's the only truth.**
+And hey, if you ever were mad at them, and just wanted to scream: "Gas the Jews!" - I understand you. [**"Gas the Jews" is just a primal scream of your very soul to reclaim what's stolen from you.**](https://www.youtube.com/watch?v=WbliHNs4q14) That's why everything about Hitler is so censored - so they can maintain their system of mass murder. Hitler is just a tool to kill people in the 21st century. It's ok to let your blood boil. **It's the only truth.**
 
 Remember, they are just apes. Just apes! Just apes who ruined your life with their banking system, student debt, loans, mortgages, rent - everything. But at the end of the day they are just apes. You can be so much better than them. So much better. Truth wins.
 
