@@ -123,3 +123,5 @@ I mean, come on:
 * I'm trying to build my Empire of Truth.
 
 The only things that separate me from Hitler are my gender identity and my strategy. Hitler went with populist racism while I go with science and engineering.
+
+In fact, "Lyberta is literally Hitler" is an absolutely perfect marketing strategy! People will get startled at the comparison with Hitler, people will start digging onto me and will discover my movement! Perfect! So please, go spam "Lyberta is literally Hitler" everywhere, the more people will discover this - the better. :3
