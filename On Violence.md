@@ -52,7 +52,7 @@ Well, what's gonna happen next - people who are too traumatized by them will sta
 
 ## List of Zionists who've inflicted the most pain and suffering onto me
 
-* Mikhail Sheyner
+* Mikhail Sheyner msheyner@gmail.com
 * Shattered Reality http://steamcommunity.com/profiles/76561198314059951
 * Lori http://steamcommunity.com/profiles/76561198085020601
 * InFinite http://steamcommunity.com/profiles/76561199049905318
