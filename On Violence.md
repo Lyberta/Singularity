@@ -49,3 +49,36 @@ Remember, they are just apes. Just apes! Just apes who ruined your life with the
 ## Be better than those stupid apes! Be like me! Join the Singularity!
 
 Well, what's gonna happen next - people who are too traumatized by them will start committing violence. Zionists have been repressing and murdering people for millenia. So all the people who have a very deep grudge against Zionists, especially Palestine, will start committing their rightful revenge. People who are more-or-less self-aware will just go with the same strategy that I'm doing: self-improvement and carefully lying to people who are too far in their own delusions - "narcissists". Narcissists can be put down with violence but [words don't work](https://www.youtube.com/watch?v=0uZnhJydpbY). So you can just keep delusional people in the bubble of their own delusion while carefully "profiting" from them. It works. That's how Zionists themselves profit. Just telling lies.
+
+## List of Zionists who've inflicted the most pain and suffering onto me
+
+* Mikhail Sheyner
+* Shattered Reality http://steamcommunity.com/profiles/76561198314059951
+* Lori http://steamcommunity.com/profiles/76561198085020601
+* InFinite http://steamcommunity.com/profiles/76561199049905318
+* Lunatica http://steamcommunity.com/profiles/76561198048680783 https://www.youtube.com/@Lunatica97
+* Easy4Chrysy http://steamcommunity.com/profiles/76561198281328079
+* Princess Luna http://steamcommunity.com/profiles/76561198362729620
+* Grr http://steamcommunity.com/id/7656119875392656
+* Салимов Ильдар Маратович @commonperson:matrix.org @avatar:cutefunny.art @ferrak:matrix.org
+* CancerKid (many...)
+* Beanermon (many...)
+* Chibi Loli (many...)
+* PurpleLady @purplelady:matrix.org
+* Parfait @parfait:ibhaven.st @parfait:norge.chat @parfait:foxcyb.org @parfait:poes.fokk.in
+* Corbenic @corbenic:matrix.org
+* c0mmando (admin of https://hackliberty.org/)
+* jgrantgryphon @jgrantgryphon:matrix.org
+* kompowiec2 @kompowiec2:matrix.org
+* dibi58 @dibi58:techsaviours.org @dibi58:thewords.faith @dibi58:matrix.org
+* Lara Flynn @a:the-apothecary.club @cat5e:matrix.org
+* Nico @deepbluev7:neko.dev
+* Alice @alice:the-apothecary.club
+* Ambiguous Yelp @ambiguous_yelp:matrix.org
+* rkv @rkv:matrix.org
+* Dr. Robinson @goodfellowpuch:matrix.org
+* artarkia @tauny:matrix.org https://composition-complex.appspot.com/
+* Kenzie @kenzielovestala:matrix.org
+* Snowie Q @snowiecrash:matrix.org
+* sexyneo23 @sexyneo23:matrix.org
+* sweetbaby @sweetbaby:matrix.org
