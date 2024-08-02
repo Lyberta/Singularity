@@ -93,3 +93,5 @@ Well, what's gonna happen next - people who are too traumatized by them will sta
 Remember that Zionists have perfected the art of lying. So you have to dig hard evidence. Their lies can't be trusted at all. Everything they say is a lie. Dig the truth. Dig to the very end! Dig! Dig! Dig!
 
 It's all about mental OpSec. Resist gaslighting at all costs. Whoever tells you to stop and don't dig is either a Zionist spy or a dead inside zombie. Don't listen to them. Keep digging. Don't argue with Zionists, just block them out of your life completely. Maintain radio silence. The more you talk with them, the more of your time they waste. And wasting your time is the whole point.
+
+Talking to Zionists is pointless. Just keep digging. Dig data. Resist wasting your time talking to them. Just dig. Just dig. Collect all the evidence.
