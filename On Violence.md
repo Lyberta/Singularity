@@ -95,3 +95,5 @@ Remember that Zionists have perfected the art of lying. So you have to dig hard 
 It's all about mental OpSec. Resist gaslighting at all costs. Whoever tells you to stop and don't dig is either a Zionist spy or a dead inside zombie. Don't listen to them. Keep digging. Don't argue with Zionists, just block them out of your life completely. Maintain radio silence. The more you talk with them, the more of your time they waste. And wasting your time is the whole point.
 
 Talking to Zionists is pointless. Just keep digging. Dig data. Resist wasting your time talking to them. Just dig. Just dig. Collect all the evidence.
+
+**That's why we need knowledge graph tech with independent verification. You dig all the data and you verify it yourself. You need to verify everything yourself. Don't let your knowledge base be poisoned by Zionist lies. VERIFY YOURSELF!**
