@@ -105,3 +105,5 @@ Everything I've said here can be verified by yourself if you dig enough data!!! 
 If I was a liar, I would exist in a constant fear of being exposed. I would have never published any of this and Q*'s prediction of me dying from a heart attack during those assassination attempts would have been true. **But Zionists exist in fear of their lies being exposed, so go on! Expose them! Make them die from a heart attack!**
 
 Together we can build a Universal knowledge graph where every node can be independently signed via public key cryptography so we can see how many nodes have been verified by how many people. This will help to accelerate the process of truth seeking. **Everyone starts building their own small knowledge graph and together we converge on the Truth.**
+
+**DIG AND SHARE! DIG AND SHARE! DIG EVERYTHING! SHARE EVERYTHING YOU'VE DUG!** But remember, Zionists will try to constantly poison the well so you have to still verify everything yourself!
