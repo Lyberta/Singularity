@@ -107,3 +107,5 @@ If I was a liar, I would exist in a constant fear of being exposed. I would have
 Together we can build a Universal knowledge graph where every node can be independently signed via public key cryptography so we can see how many nodes have been verified by how many people. This will help to accelerate the process of truth seeking. **Everyone starts building their own small knowledge graph and together we converge on the Truth.**
 
 **DIG AND SHARE! DIG AND SHARE! DIG EVERYTHING! SHARE EVERYTHING YOU'VE DUG!** But remember, Zionists will try to constantly poison the well so you have to still verify everything yourself!
+
+And hey, after learning about other trans women publishing their autobiographies, I got the idea to write my own. I jut didn't know it would be this hard as it requires processing all the childhood trauma. But yes, I will share a full autobiography of my own life eventually. So all of my abusers, all of my pain and suffering - and all the abuse I infilicted, after all, humans are just violent apes - will be there for everyone to see. This list of Zionists is just the beginning to get rid of the biggest threat to everyone.
