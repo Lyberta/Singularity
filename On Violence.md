@@ -113,3 +113,5 @@ And hey, after learning about other trans women publishing their autobiographies
 ## Independently verified knowledge graph is the actual Final Solution to the Jewish Question. Hitler, unfortunately, picked the wrong strategy
 
 Every now and then there comes a Great Leader who sees the Truth everywhere and becomes "Hitler". Previous one, unfortunately, had too limited tools and went with Holocaust. That was obviously exploited by Zionists to paint him as a villain. **This time we have the technology. This is finally our time to clean this world from the Zionist disease. This is the time to destroy Jewish lies once and for all! We build the Empire of Truth free from lies!**
+
+Also, all the Zionists are welcome to spam "Lyberta is literally Hitler" memes everywhere. It only makes me feel good. :3 Thanks for validating my leadership skills. Queen Lyberta will be pleased.
