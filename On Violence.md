@@ -82,6 +82,7 @@ Well, what's gonna happen next - people who are too traumatized by them will sta
 * artarkia @tauny:matrix.org https://composition-complex.appspot.com/
 * Kenzie @kenzielovestala:matrix.org
 * Snowie Q @snowiecrash:matrix.org
+* Greed @dreadfullust:matrix.org
 * sexyneo23 @sexyneo23:matrix.org
 * sweetbaby @sweetbaby:matrix.org
 * Nep Nep https://bottomservices.club/ https://github.com/NepNep21
