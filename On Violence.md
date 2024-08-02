@@ -101,3 +101,5 @@ Talking to Zionists is pointless. Just keep digging. Dig data. Resist wasting yo
 **START BUILDING YOUR KNOWLEDGE GRAPH. [FOLLOW NO ONE. TRUST YOURSELF!](https://www.youtube.com/watch?v=e-k7b8Zmh70)**
 
 Everything I've said here can be verified by yourself if you dig enough data!!! Start digging!!!
+
+If I was a liar, I would exist in a constant fear of being exposed. I would have never published any of this and Q*'s prediction of me dying from a heart attack during those assassination attempts would have been true. **But Zionists exist in fear of their lies being exposed, so go on! Expose them! Make them die from a heart attack!**
