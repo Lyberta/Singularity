@@ -284,9 +284,7 @@ Hong Kong-based organization that designs, manufactures, and sells single-board 
 
 ## Tech people
 
-### [John Carmack](https://en.wikipedia.org/wiki/John_Carmack)
-
-* Computer programmer and video game developer.
+None for now.
 
 ## Firearms/military experts
 
