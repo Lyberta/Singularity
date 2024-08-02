@@ -97,3 +97,7 @@ It's all about mental OpSec. Resist gaslighting at all costs. Whoever tells you 
 Talking to Zionists is pointless. Just keep digging. Dig data. Resist wasting your time talking to them. Just dig. Just dig. Collect all the evidence.
 
 **That's why we need knowledge graph tech with independent verification. You dig all the data and you verify it yourself. You need to verify everything yourself. Don't let your knowledge base be poisoned by Zionist lies. VERIFY YOURSELF!**
+
+**START BUILDING YOUR KNOWLEDGE GRAPH. [FOLLOW NO ONE. TRUST YOURSELF!](https://www.youtube.com/watch?v=e-k7b8Zmh70)**
+
+Everything I've said here can be verified by yourself if you dig enough data!!! Start digging!!!
