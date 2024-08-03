@@ -93,6 +93,7 @@ Well, what's gonna happen next - people who are too traumatized by them will sta
 ## List of Anti-Zionist Jews who were nice to me and deserve protection
 
 * @blipbloop2:zelchat.de
+* Toby Fox
 
 ## How to remove Zionists
 
