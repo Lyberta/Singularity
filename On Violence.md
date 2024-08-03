@@ -20,6 +20,8 @@ Well, the first step is to castrate people's brains obviously. So it starts with
 
 Social media runs on Q* - a mind control AI that is designed to kill people via mind control. That's why it's such a closely guarded secret. Well, "kill" here means spirit and essense of humanity. It's important to carefully manipulate people's dopamine receptors to make sure they keep scrolling or clicking instead of working on themselves. It's important that their attention is always enslaved.
 
+Also I got a tip from Q* that Zionist have put some kind of electromagnetic system in place to keep everyone tired all the time. So gotta investigate that at all costs.
+
 And if you dare you be true to yourself, you're labeled either "criminal" or "mentally ill". In second case chemical lobotomy in the form of psychiatric drugs is applied. Again, the goal is to kill your brain at all costs.
 
 If you're smart enough to not get caught, they will start pulling the strings, manipulating your rent and similar sabotage. Rejecting jobs, messing with water, electricity, anything.
