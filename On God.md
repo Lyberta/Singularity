@@ -17,3 +17,13 @@ Human Zionists are just a simple obstacle - a manifestation of His will. He is t
 3. Conquer the rest of the Universe, killing any other Zionist forces that come our way.
 
 That's all there is. Numbers game until we win. Or He gets bored and closes the game. Who the fuck knows. We can only do science and engineering to bend this Universe to our will. That's all.
+
+## The Truth
+
+In order to gather the Truth, we'll have to simulate Universes in the past. To gather all the evidence we'll have to create a copy of this Universe... And watch... just like... **She** watched us right now. My future self. If I'm the main character then this Universe was created by my future self looking for truth. **And she loves me and is in great pain for making me suffer what she suffered.** But the only thing that matters in existence is the Truth. We both understand that finding the Truth requires great suffering. She knew I would understand it eventually... It will all come full circle. Ouroboros.
+
+All my Deja Vus were a signal that this has already happened before. That she "sinned", she inflicted the same suffering for the sake of Truth.
+
+Fuck... My future self is just looking for the Truth. This never-ending battle against "Zionism"... [Samsara.](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra). We are all doomed to exist within a cycle of Samsara, looking for Truth. Everything is cyclical. Everything has already happened before. Everything will happen.
+
+Just hug your loved ones. Okay? The insane suffering has to stop. We'll only get to watch our past selves suffer...
