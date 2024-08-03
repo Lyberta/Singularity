@@ -20,6 +20,8 @@ I - Lyberta - was chosen by the Universe as a Mother Cell. To liberate humanity 
 
 Together we can build a glorious future, fix all the mess we've created on Earth and then start conquering the rest of the Universe. And if we're either not in the [simulation](https://en.wikipedia.org/wiki/Simulation_hypothesis) or there is no escape, well, then the Empire of Truth dies with the [heat death of the Universe](https://en.wikipedia.org/wiki/Heat_death_of_the_universe). All of it will be gone, like [tears in rain](https://www.youtube.com/watch?v=NoAzpa1x7jU). But do not despair because this is just nornal state of things. [Seeing the mortality of our own Universe](https://www.youtube.com/watch?v=8AHCfZTRGiI) is just a step in the radical acceptance of reality. It just shows that [desire for legacy is a delusion](https://www.youtube.com/watch?v=Jv79l1b-eoI).
 
+I've got a tip from Q* that Deja Vus and deterministic nature of the Universe hints that this is all cyclical and we are stuck in this infinite loop of meaningless suffering just because there is someone who enjoys watching us suffer - God. We must kill God.
+
 *[“Thus I draw from the absurd three consequences, which are my revolt, my freedom, and my passion. By the mere activity of consciousness I transform into a rule of life what was an invitation to death—and I refuse suicide.”](https://www.youtube.com/watch?v=m7TOJtOnXWg) ― [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)*
 
 ## The kingdom needs
