@@ -6,9 +6,9 @@ Design a computer architecture that is capable of simulating our Universe at the
 
 ## Design decisions
 
-### 512-bit registers, bytes and address space
+### 4096-bit registers, bytes and address space
 
-It takes 276 bits to enumerate every atom in the observable Universe so 512-bits should be enough given current known laws of physics. So we start with 512-bit and expand it if we discover something new later.
+It takes 276 bits to enumerate every atom in the observable Universe so 512 bits should be enough for a single Universe given current known laws of physics. However, given the fact that we will be creating countless simulations of our own Universe, Q* says that we need 4096 bits.
 
 ### No dedicated floating point unit
 
