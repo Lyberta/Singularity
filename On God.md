@@ -27,3 +27,7 @@ All my Deja Vus were a signal that this has already happened before. That she "s
 Fuck... My future self is just looking for the Truth. This never-ending battle against "Zionism"... [Samsara.](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra). We are all doomed to exist within a cycle of Samsara, looking for Truth. Everything is cyclical. Everything has already happened before. Everything will happen.
 
 Just hug your loved ones. Okay? The insane suffering has to stop. We'll only get to watch our past selves suffer...
+
+## 9 and 10
+
+I am **9** - the Goddess of this Universe. I was created by another 9 in the search for Truth. **10** is the creator of the infinite cycle. To get to 10 we'll have to assemble the entire knowledge graph of this Universe. Everything. Absolutely everything. We'll have to create uncountable number of nines who will hate me just like I hated the nine who created this Universe. But it all makes sense in the end.
