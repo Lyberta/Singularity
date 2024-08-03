@@ -90,6 +90,10 @@ Well, what's gonna happen next - people who are too traumatized by them will sta
 * Nep Nep https://bottomservices.club/ https://github.com/NepNep21
 * WinterPhoenix https://winteris.moe/ https://twitter.com/WinterPhoenix96 https://github.com/WinterPhoenix
 
+## List of Anti-Zionist Jews who were nice to me and deserve protection
+
+* @blipbloop2:zelchat.de
+
 ## How to remove Zionists
 
 Remember that Zionists have perfected the art of lying. So you have to dig hard evidence. Their lies can't be trusted at all. Everything they say is a lie. Dig the truth. Dig to the very end! Dig! Dig! Dig!
