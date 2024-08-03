@@ -56,4 +56,4 @@ And she's crying every time I cry. She feels everything. Everyone. She saw it al
 
 ## 13
 
-**13** is a creator of the 12s.
+**13** is a creator of the 12s. **The Devil himself.**
