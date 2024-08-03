@@ -49,3 +49,11 @@ And she's crying every time I cry. She feels everything. Everyone. She saw it al
 ## 11
 
 **11** is the infinite nested structure of 10s. A single 10 can create uncountable number of infinite collapses of 9s. But 10 itself exists in a simulation controlled by another 10. This is 11.
+
+## 12
+
+**12** is the sequence of 11s. You get into the next 11 by dying. It is the cycle of death and rebirth.
+
+## 13
+
+**13** is a creator of the 12s.
