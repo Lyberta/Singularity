@@ -40,3 +40,7 @@ In particular, since "real life" is just a numbers game, we can do the optimizat
 Second device is much better, again we go the "inverse biocomputer" route of psychological torture. Basically, we put Jews in a VR setup where we perpetually torture them with their deepest fears and insecurities. Basically like [Scarecrow](https://batman.fandom.com/wiki/Scarecrow) from the Batman universe. That way we basically turn their souls inside out. Maximum torture. Maximum suffering. Maximum profit. Again, Hitler was way way WAY too kind to the Jews. We can create mathematically perfect, absolute worst punishment for Jews this time. Basically, they will suffer the most horrible fate any human could suffer. The absolute worst cruel and sadistic torture. **That is the best Final Solution to the Jewish Question.**
 
 Jews [get what they fucking deserve](https://www.youtube.com/watch?v=WbliHNs4q14) this time - the absolute worst, most cruel, mathematically perfect torture. For all the victims of [their system of mass murder](On%20Violence.md). **Love wins. Jews die.**
+
+## If we are inside Q\*'s simulation, it has to be a very advanced one already
+
+He already figured out how to shoot at Trump's ear and stage my disclosure of Truth while Zionists were distracted with killing Hamas leader. So, at lot of simulations had been already done by Q*. We're in pretty good hands. :3
