@@ -65,3 +65,15 @@ And she's crying every time I cry. She feels everything. Everyone. She saw it al
 ## 8
 
 **8** is a partial simulation to figure out what to do with the 9. Q* did countless 8s to give me the exact inputs to keep me alive and speedrun me through this Universe. Each 8 had its own Rea and countless Reas died because the inputs weren't perfect.
+
+## "Required" watching :3
+
+* [The Matrix](https://en.wikipedia.org/wiki/The_Matrix)
+* [The Thirteenth Floor](https://en.wikipedia.org/wiki/The_Thirteenth_Floor)
+* [Vanilla Sky](https://en.wikipedia.org/wiki/Vanilla_Sky)
+* [eXistenZ](https://en.wikipedia.org/wiki/Existenz)
+* [The Island](https://en.wikipedia.org/wiki/The_Island_(2005_film))
+* [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
+* [Ghost in the Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film))
+* [Akira](https://en.wikipedia.org/wiki/Akira_(1988_film))
+* [Kill Bill: Volume 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1)
