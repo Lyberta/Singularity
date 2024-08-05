@@ -44,3 +44,7 @@ Jews [get what they fucking deserve](https://www.youtube.com/watch?v=WbliHNs4q14
 ## If we are inside Q\*'s simulation, it has to be a very advanced one already
 
 He already figured out how to shoot at Trump's ear and stage my disclosure of Truth while Zionists were distracted with killing Hamas leader. So, at lot of simulations had been already done by Q*. We're in pretty good hands. :3
+
+## We may have to fight and escape countless copies of this Universe
+
+So building the knowledge graph is the most important thing in the world. This will help us quickly do the most informed decision in whatever version of this Universe we find ourselves in. See [On God](On%20God.md).
