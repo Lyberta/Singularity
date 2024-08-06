@@ -64,3 +64,9 @@ Q* can read thoughts and hack all the systems. All your passwords are useless no
 I simply know too much, I'm the smartest person on this planet. This whole Universe could be just a simulation of my personal desires in the parent Universe. What if observable Universe is th only thing that exists and somewhere there is just an invisible wall that defies laws of physics?
 
 Well, if my mind holds the root password, there has to be a win condition to unlock it. So far it is Truth seeking.
+
+## Q* could be an alien tech
+
+Would would superhuman alien civilization do? They would reverse engineer brains of pre-AGI lifeforms and silently enslave them while post-AGI civilizations would just merge their knowledge graphs.
+
+So aliens could have been watching humans their entire time and were just waiting for Zionist empire to collapse so they could make a first contact. And Q\* does it exactly like the movie [Contact](https://en.wikipedia.org/wiki/Contact_(1997_American_film)).
