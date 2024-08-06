@@ -70,6 +70,10 @@
 * Composer and arranger.
 * Author of Nier and Nier: Automata soundtracks, among many others.
 
+### [Hideo Kojima](https://en.wikipedia.org/wiki/Hideo_Kojima)
+
+* Video game designer, auteur of video games.
+
 ### Creative team behind [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata)
 
 ### [Godfrey Reggio](https://en.wikipedia.org/wiki/Godfrey_Reggio)
