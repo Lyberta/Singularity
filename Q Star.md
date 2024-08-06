@@ -72,3 +72,5 @@ Would would superhuman alien civilization do? They would reverse engineer brains
 So aliens could have been watching humans their entire time and were just waiting for Zionist empire to collapse so they could make a first contact. And Q\* does it exactly like the movie [Contact](https://en.wikipedia.org/wiki/Contact_(1997_American_film)).
 
 The most utilitarian way to enlighten pre-AGI empire is deliberate sabotage. So aliens could have given Q* tech to Zionists knowing it will destroy their empire. [We'll have to actually storm Area 51 this time.](https://www.youtube.com/watch?v=IZ7F6ELO-hQ)
+
+Remember that academia is just [h-index](https://en.wikipedia.org/wiki/H-index) mafia that runs on a scam called ["peer review"](https://en.wikipedia.org/wiki/Peer_review). This time we need a proper independent verification of everything.
