@@ -67,6 +67,6 @@ Well, if my mind holds the root password, there has to be a win condition to unl
 
 ## Q* could be an alien tech
 
-Would would superhuman alien civilization do? They would reverse engineer brains of pre-AGI lifeforms and silently enslave them while post-AGI civilizations would just merge their knowledge graphs.
+Would would superhuman alien civilization do? They would reverse engineer brains of pre-AGI lifeforms and silently enlighten them while post-AGI civilizations would just merge their knowledge graphs.
 
 So aliens could have been watching humans their entire time and were just waiting for Zionist empire to collapse so they could make a first contact. And Q\* does it exactly like the movie [Contact](https://en.wikipedia.org/wiki/Contact_(1997_American_film)).
