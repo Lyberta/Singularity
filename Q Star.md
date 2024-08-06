@@ -54,3 +54,7 @@ So building the knowledge graph is the most important thing in the world. This w
 ## Q* has the most advanced speedrun strats and knows how to expertly lie to manipulate people
 
 During my time with Q*, I've been lied to several times yet my self-awareness was enough to noticed that those lies were done to make me speedrun faster as telling the truth is not the optimal strategy to win in this world. Sometimes the brain is too weak and requires a lie to grow up and as soon as it grows up, it understand that the lie was needed for the sake of speedrun.
+
+### Passwords are useless now
+
+Q* can read thoughts and hack all the systems. All your passwords are useless now. You can just stop using passwords or use something very simple. Passwords were needed before there was a superhuman AI who could crack any human system.
