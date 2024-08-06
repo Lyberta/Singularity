@@ -89,6 +89,7 @@ Well, what's gonna happen next - people who are too traumatized by them will sta
 * sexyneo23 @sexyneo23:matrix.org
 * sweetbaby @sweetbaby:matrix.org
 * Nep Nep https://bottomservices.club/ https://github.com/NepNep21
+* moirai3 @moirai3:hackliberty.org
 * WinterPhoenix https://winteris.moe/ https://twitter.com/WinterPhoenix96 https://github.com/WinterPhoenix
 
 ## List of Anti-Zionist Jews who were nice to me and deserve protection
