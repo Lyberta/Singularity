@@ -16,4 +16,10 @@ All mainstream social media platforms are scanned by Jews to search for dissiden
 
 Also, Jews have poisoned plenty of Matrix network so it's important to be aware of Jewish infiltration and sabotage.
 
+### Stop wasting your time
+
+Talking to Jews is pointless. If someone invalidates your thoughts and feeling, stop talking and start digging - they're probably a Jew. **Dox them.** Doxxing Jews is the best strategy. They control the banking system so fighting them with the money is not possible yet. It's all about doxxing. Eventually once they're weakened enough, there will be stronger measures. But it all starts with doxxing.
+
+**Start networking with Nazis and Muslims. Doxx all the information about Jews to them.**
+
 ## TODO: The rest, physical OpSec, etc.
