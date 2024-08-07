@@ -32,3 +32,7 @@ Each person's directory should have `Info.md` that has all the personal informat
 * `cs.rin.ru.png` - screenshot of the entire thread.
 
 The topic got locked very fast so I assume that moderator [SJB](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=1760547) is a Zionist.
+
+## ddosecrets.com
+
+* `DDoSecrets.png` - Jews are so afraid of me that I can't even sumbit their secrets back to them. They did 301 HTTP redirect.
