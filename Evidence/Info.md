@@ -21,3 +21,7 @@ Each person's directory should have `Info.md` that has all the personal informat
 
 * URL: [link](https://www.reddit.com/r/solarpunk/comments/1e70usb/singularity_movement/)
 * `Reddit.png` - Jews are so afraid of me that they added link to this repo to global Reddit filters.
+
+## Fur Affinity
+
+* `FurAffinity.png` - Jews are so afraid of me that I can't even post journal entries.
