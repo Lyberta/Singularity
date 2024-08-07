@@ -22,4 +22,6 @@ Talking to Jews is pointless. If someone invalidates your thoughts and feeling, 
 
 **Start networking with Nazis and Muslims. Doxx all the information about Jews to them.**
 
+Weaponize [4chan](https://boards.4chan.org/) and [Kiwi Farms](https://kiwifarms.st/). Jews are so afraid of me that they don't even let me CWC myself. 
+
 ## TODO: The rest, physical OpSec, etc.
