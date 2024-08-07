@@ -24,4 +24,11 @@ Talking to Jews is pointless. If someone invalidates your thoughts and feeling, 
 
 Weaponize [4chan](https://boards.4chan.org/) and [Kiwi Farms](https://kiwifarms.st/). Jews are so afraid of me that they don't even let me CWC myself. 
 
+## Physical OpSec
+
+## Technological OpSec
+
+* [Register your own domian name and run it on your own server](https://landchad.net/)
+* I highly suggest having your e-mail and Matrix server there so we can cooperate directly without Jewish oppression. The rest is much easier.
+
 ## TODO: The rest, physical OpSec, etc.
