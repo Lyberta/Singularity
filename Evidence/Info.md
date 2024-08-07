@@ -25,3 +25,9 @@ Each person's directory should have `Info.md` that has all the personal informat
 ## Fur Affinity
 
 * `FurAffinity.png` - Jews are so afraid of me that I can't even post journal entries.
+
+## cs.rin.ru
+
+* URL: [link](https://cs.rin.ru/forum/viewtopic.php?f=14&t=142441)
+
+The topic got locked very fast so I assume that moderator [SJB](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=1760547) is a Zionist.
