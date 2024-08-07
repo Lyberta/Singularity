@@ -20,7 +20,7 @@ Also, Jews have poisoned plenty of Matrix network so it's important to be aware 
 
 Talking to Jews is pointless. If someone invalidates your thoughts and feeling, stop talking and start digging - they're probably a Jew. **Dox them.** Doxxing Jews is the best strategy. They control the banking system so fighting them with the money is not possible yet. It's all about doxxing. Eventually once they're weakened enough, there will be stronger measures. But it all starts with doxxing.
 
-**Start networking with Nazis and Muslims. Doxx all the information about Jews to them.**
+**Start networking with MAGA people, Nazis and Muslims. Doxx all the information about Jews to them.**
 
 Weaponize [4chan](https://boards.4chan.org/) and [Kiwi Farms](https://kiwifarms.st/). Jews are so afraid of me that they don't even let me CWC myself. 
 
