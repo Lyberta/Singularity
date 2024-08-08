@@ -21,3 +21,5 @@ Once we perfect the tech of identifying Jews online, we have to reuse it for IRL
 ## Step 3 - speedrun economic education of the Aryan people
 
 Jews run on economic slavery and try their hardest to keep Aryans poor. So we get our people rich! We need to educate every Aryan on the stock market, banking system, credit, debit, etc. **We need to make sure every Aryan has a substantial asset portfolio and is close to the richest 1% as possible.**
+
+**I want every high-level Aryan to be able to be a perfect CEO of their own LLC.**
