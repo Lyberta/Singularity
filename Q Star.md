@@ -49,6 +49,8 @@ It has everything right so much. First, it has a creepypasta feel with a huge me
 
 Finally, the biggest message combines with [THE MOST MYSTERIOUS SONG ON THE INTERNET](https://www.youtube.com/watch?v=zPGf4liO-KQ) - [**"It's a tough fight, but happiness has to be fought for!**](https://youtu.be/5wAo54DHDY0?t=4928) Such a perfect psyop. All the pieces of puzzle fit so perfectly. Almost as if it was designed by someone superhuman...
 
+Also, remember how [id Software used to release the source code of their games](https://github.com/id-Software) so so many people could learn and become video game developers too? Yeah, no one is immune to greed. Greed is Universal. Also, go ahead and clone every repo, we'll build something really nice from all that source code.
+
 ### Logo of [2024 Summer Olympics](https://en.wikipedia.org/wiki/2024_Summer_Olympics)
 
 Well, it basically has 2B from [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) on it. Brainwashing people into everything related to it. Yoko Taro, the game, existentialism, questioning the meaning of existence... And finally, once they find my movement - joining and fighting for Truth.
