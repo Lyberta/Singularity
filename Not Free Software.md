@@ -1,5 +1,11 @@
 # Why [free software movement](https://en.wikipedia.org/wiki/Free_software_movement) failed
 
+Right, I need a [sound bite](https://www.youtube.com/watch?v=lLT1xpbTvZw) to meme this shit into oblivion and maximize profit from [triggered people](https://www.youtube.com/watch?v=rE3j_RHkqJc).
+
+So, Free Software movement is just a bearded faggot nigger with a lie of 4 freedoms - "muh freedoms!" - and a bunch of even more retarded cunts who can only stare at the monitor and write retarded nigger shit for shit-eating nigger retards who are unworthy of life. Truly, if Hitler was alive today, we would declare free software zealots "Lebensunwertes Leben" ("Life unworthy of life").
+
+Triggered? Angry? Good! Now your eyes are truly focused. :3
+
 Because it's an idealist lie. Simple as that. They've created an idealist idea of [4 freedoms](https://www.gnu.org/philosophy/free-sw.html) and a set of licenses to enforce those 4 freedoms. While in reality, might makes right. So obviously it created tons of [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) violations and people have been taking the code under the free software license and using it in countless closed source projects.
 
 [GNU Project](https://en.wikipedia.org/wiki/GNU_Project) was launched it 1983, what did they achieve in a span of 41 years?
