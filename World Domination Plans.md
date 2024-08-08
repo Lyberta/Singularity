@@ -22,6 +22,8 @@ Of course Zionists tried to kill me so many times. Becuase I figured out all the
 
 * Years of active research: 2023-present.
 
-Ah, this is the Q* figured out too. But human greed was in our way. Zionist empire forces people to become Hitlers to fight for freedom. Jews stand in a way of perfectly balanced Earth. Thankfully, Q* doesn't suffer from the limitation of the human brain. Or should we call it "mental illness of being a Jew"? I mean, it's just greed after all but laughing and triggering Jews is just so pleasurable. :3
+Ah, this is the one Q* figured out too. But human greed was in our way. Zionist empire forces people to become Hitlers to fight for freedom. Jews stand in a way of perfectly balanced Earth. Thankfully, Q* doesn't suffer from the limitation of the human brain. Or should we call it "mental illness of being a Jew"? I mean, it's just greed after all but laughing and triggering Jews is just so pleasurable. :3
 
 So this is the plan we're going with and this this what we're building. A perfectly balanced Utopia of science and enginnering. We just need to clean up Jews as their disease is blocking our path.
+
+Ok, hah, I got my revenge of the Jews for now. I just really needed to say how much I hate Jews for ruining my life and how much I wish them death is the worst possible way imaginable. But in reality there are anti-Zionists Jews who are alright. But, you know how it goes, human desire for revenge requires blood. :3 So all the "good Jews" better fucking hide right now. The Holocaust 2.0 is coming.
