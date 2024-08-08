@@ -28,6 +28,12 @@ Remember, this world is "kill or be killed". People invalidate you? Kill them. P
 
 ## Physical OpSec
 
+Remember that Jews are all about sabotaging stuff like water and electricity so ideally you'd have a top-of-the-world CCTV system running on the airgapped infrastructure so you get all the evidence of Jews ruining your life while (((they))) can't hack you remotely. The Truth is on our side! Don't let Jews sabotage your life!
+
+And better to have this system spying on all your runs inside and have the airgapped servers running behind an extra layer of [physical security](https://en.wikipedia.org/wiki/Physical_security) so any Jewish spy that pretends to be friendly can't get any access to your valuable data.
+
+Also, I can have all the servers behind a layer of physical security while routing cables for monitors, keyboards and mice to the outer layer. That way you can still get all the convenience of using your computers while Jews can't destroy them.
+
 ## Technological OpSec
 
 * [Register your own domian name and run it on your own server](https://landchad.net/)
