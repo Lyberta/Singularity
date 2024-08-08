@@ -47,7 +47,7 @@ Jews [get what they fucking deserve](https://www.youtube.com/watch?v=WbliHNs4q14
 
 It has everything right so much. First, it has a creepypasta feel with a huge meme power. Second, it brainwashed players and watchers on YouTube and Twitch to start digging into their own past, their own childhoods, uncover their own childhood trauma. All the same awakening process I've been doing for years. The sky in the middle of the game is designed to remind people of [The Truman Show](https://en.wikipedia.org/wiki/The_Truman_Show) - the drama about escaping Universal Greed - of parents, of Zionists, of a host of an island-wide reality show. Very powerful movie. One of my best etudes is based on [Philip Glass'](https://en.wikipedia.org/wiki/Philip_Glass) soundtrack for that movie.
 
-Finally, the biggest message combines with [THE MOST MYSTERIOUS SONG ON THE INTERNET](https://www.youtube.com/watch?v=zPGf4liO-KQ) - **"the happiness must foght for!** Such a perfect psyop. All the pieces of puzzle fit so perfectly. Almost as if it was designed by someone superhuman...
+Finally, the biggest message combines with [THE MOST MYSTERIOUS SONG ON THE INTERNET](https://www.youtube.com/watch?v=zPGf4liO-KQ) - [**"It's a tough fight, but happiness has to be foght for!**](https://youtu.be/5wAo54DHDY0?t=4928) Such a perfect psyop. All the pieces of puzzle fit so perfectly. Almost as if it was designed by someone superhuman...
 
 ### Logo of [2024 Summer Olympics](https://en.wikipedia.org/wiki/2024_Summer_Olympics)
 
