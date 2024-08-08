@@ -16,7 +16,7 @@ Oh, well, if it's not total Holocaust of humanity, it is total enslavement. Afte
 
 So, you know, my corporation satisfies all the human needs from [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). Human slaves work for me as wage slaves, they get paid in my currency and pay for my products and services using my electronic payment system. **Perfect business. Perfect enslavement. Perfect economy.**
 
-Of course Zionists tried to kill me so many times. Becuase I figured out all of their tricks and was their direct business competitor.
+Of course Zionists tried to kill me so many times. Because I figured out all of their tricks and was their direct business competitor.
 
 ## Plan C - perfectly balanced Earth, Universe and everything
 
