@@ -1,17 +1,8 @@
 # List of evidence against the Zionist oppression
 
-**Remember, all the Truth survives independent verification. So everything I present here must be independently verified by yourself! This is just an appetizer to get you mad and start digging on (((((them))))).**
+**Remember, all the Truth survives independent verification. So everything I present here must be independently verified by yourself! This is just an appetizer to get you mad and start digging on (((them))).**
 
-## Gathering info yourself
-
-### On people
-
-Each person's directory should have `Info.md` that has all the personal information that the person has said about themselves.
-
-* Photos and videos of the person in question go into `Photos` subdirectory.
-* Images that were shared by that person go into `Images` subdirectory.
-* Documents (PDF files, papers, legal documents, etc.) authored by that person or belonging to that person go into `Documents` subdirectory.
-* Chat logs go into `Logs` subdirectory.
+See [DIY](DIY) directory for more info and templates on gathering info.
 
 ## Kiwi Farms
 
