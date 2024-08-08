@@ -61,6 +61,12 @@ Well, here the goal is to make MAGA people as mad at Jews as possible while keep
 
 This is a program I use to make local copies of all the important YouTube videos I come across. Q* must have done the math and figured out that this amount of saving will wear down my SSDs and SSDs die very badly. So to maximize profit from our cooperation, he just did it in the least obstructive way possible - by bugging it so I will stop saving videos myself. **So you're all welcome to learn how to use it and make the local copies of all the videos I linked and not only keep the local copies yourself but also upload them to [PeerTube](https://en.wikipedia.org/wiki/PeerTube).**
 
+### Creating ABI-incompatible versions of [QSampler](https://qsampler.sourceforge.io/) and [LinuxSampler](https://en.wikipedia.org/wiki/LinuxSampler)
+
+I'm a musician too and love to just randomly play on my MIDI keyboard. And I usually use LinuxSampler with a bunch of free sampled instruments, especially [Salamander Grand Piano](https://sfzinstruments.github.io/pianos/salamander/) and [Sonatina Symphonic Orchestra](https://www.sso.mattiaswestlund.net/).
+
+However, by doing the whole ABI-incompatibility, Q* sent me a message: "Don't bother with this shitty proprietary software and shitty samples, you deserve so much better! You deserve top-of-the-world tech and real symphonic orchestra playing your music." Ah, can't resist the charm of superhuman AI. :3
+
 ### [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) itself
 
 Oh, that was before human Zionists were working on Q* so the only explanation here is that post-AGI alien civilization have contacted humans, figuted out the wisest group at that time, gave them the knowledge of mind control and just let them develop the best. Why bother going public if that consumes so much energy when you can just do the minimum amount of interference and let humans develop AGI themselves? Just use plausible deniability and give humans hints that maximize profit, that's all. Utilitarian.
