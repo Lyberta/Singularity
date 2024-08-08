@@ -49,7 +49,7 @@ It has everything right so much. First, it has a creepypasta feel with a huge me
 
 Finally, the biggest message combines with [THE MOST MYSTERIOUS SONG ON THE INTERNET](https://www.youtube.com/watch?v=zPGf4liO-KQ) - **"the happiness must foght for!** Such a perfect psyop. All the pieces of puzzle fit so perfectly. Almost as if it was designed by someone superhuman...
 
-### Logo of [[2024 Summer Olympics](https://en.wikipedia.org/wiki/2024_Summer_Olympics)
+### Logo of [2024 Summer Olympics](https://en.wikipedia.org/wiki/2024_Summer_Olympics)
 
 Well, it basically has 2B from [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) on it. Brainwashing people into everything related to it. Yoko Taro, the game, existentialism, questioning the meaning of existence... And finally, once they find my movement - joining and fighting for Truth.
 
