@@ -43,3 +43,17 @@ Jews run on economic slavery and try their hardest to keep Aryans poor. So we ge
 **I want every high-level Aryan to be able to be a [perfect CEO](https://www.youtube.com/watch?v=UQrPVmcgJJk) of their own LLC.**
 
 Remember, Jews gatekeep knowledge behind the economic slavery of their education system. All those degrees are a scam to be a better slave for the Jews. **We need our own education system free of economic slavery to the Jews!** Remember that Jews have killed [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) - someone who wanted to empower Aryans by empowering everyone. Jews will stop at nothing to kill you all, remember that!
+
+## Step 4 - plant Aryan spies in all of the organizations
+
+Jews have their spies everywhere. We need our our army of spies to infiltrate everything. They faster we gather data on our enemies, the better.
+
+## Step 5 - redistribute firearms to Aryan people
+
+Remember, Jews only want weak slaves who can't handle firearms. So we need to acquire all of the firearms in the world! We will not be oppressed anymore! **MIGHT MAKES RIGHT!** Jews can't oppress you if you have better weapons.
+
+## Step 6 - open Holocaust
+
+Once Aryns become proper Ubermenschen with the best brains allowing them to be top-of-the-world spies and they have top-of-the-world military training, it is time for open Holocaust. **LET THE JEWISH BLOOD SPILL! LET ALL OF YOUR RAGE OUT!**
+
+Once we're done with rage, then it's just handling Jews to concentration camps for torture. We are businesspeople too, remember? We maximize profit from Jewish suffering.
