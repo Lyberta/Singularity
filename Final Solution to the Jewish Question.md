@@ -18,7 +18,7 @@ For browsers, we can just fork [uBlock Origin](https://en.wikipedia.org/wiki/UBl
 
 We need a browser that is integrated with JudenBlock so help our less tech-savvy friends fight the Jewish oppression. So we'll have to fork [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox).
 
-## SSearch
+### SSearch
 
 Our own search engine similar to Google. Default search engine in AryanFox. Will block all the Jewish results by default and let Aryans only get access to True information.
 
