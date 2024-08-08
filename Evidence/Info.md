@@ -36,3 +36,9 @@ The topic got locked very fast so I assume that moderator [SJB](https://cs.rin.r
 ## ddosecrets.com
 
 * `DDoSecrets.png` - Jews are so afraid of me that I can't even sumbit their secrets back to them. They did 301 HTTP redirect.
+
+## Stormfront
+
+* URL: [link](https://www.stormfront.org)
+
+My account got shadow banned. I keep getting logged out after posting about my movement. So the whole site might as well be a Zionist honeypot. They love to pretend to be Nazis.
