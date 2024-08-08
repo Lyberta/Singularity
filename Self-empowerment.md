@@ -37,4 +37,10 @@ Remember, this world is "kill or be killed". People invalidate you? Kill them. P
 
 Money system is controlled by Jews so the wisest strategy is to invest into long-term physical goods. Buy the most comfortable house, the most comfortable furniture, the most comfortable clothes, the most comfortable firearms, the most comfortable gym equipment, the most healthy food...
 
+Avoid any items with [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence). Jews want your stuff to break so that you spend their money again and again and again. This is how they economically exploit people. Also, avoid any kind of [artificial scarcity](https://en.wikipedia.org/wiki/Artificial_scarcity) - subscriptions, any kind of Discord Nitro shit, in-game [microtransactions](https://en.wikipedia.org/wiki/Microtransaction), [loot boxes](https://en.wikipedia.org/wiki/Loot_box), [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) - it's all one big scam. **I mean, if you know that it will help your mental health in the short-term and you can resell it - sure. You did the full economic analysis, you're the boss. But be very careful with those. Maintain self-consciousness.**
+
+For movies, physically owning [Blu-ray Disc](https://en.wikipedia.org/wiki/Blu-ray) is the best. But ideally, you'd want to rip it and have 2 physical copies of the full contents of the disc so you don't lose data. Otherwise, BDRemux is the best quality and piracy is based af. Remember, sharing is caring!
+
+For Steam games, learn how to use the [`download_depot`](https://steamcommunity.com/sharedfiles/filedetails/?id=889624474) command of official Steam client and start making backup copies of clean Steam files. Then you can apply [Goldberg Steam Emulator](https://mr_goldberg.gitlab.io/goldberg_emulator/) and play in piece. We'll have to reverse engineer all the APIs of all launchers and release open source emulators for all the platforms and games.
+
 ## TODO: The rest.
