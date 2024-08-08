@@ -33,4 +33,8 @@ Remember, this world is "kill or be killed". People invalidate you? Kill them. P
 * [Register your own domian name and run it on your own server](https://landchad.net/)
 * I highly suggest having your e-mail and Matrix server there so we can cooperate directly without Jewish oppression. The rest is much easier.
 
-## TODO: The rest, physical OpSec, etc.
+## Economical OpSec
+
+Money system is controlled by Jews so the wisest strategy is to invest into long-term physical goods. Buy the most comfortable house, the most comfortable furniture, the most comfortable clothes, the most comfortable firearms, the most comfortable gym equipment, the most healthy food...
+
+## TODO: The rest.
