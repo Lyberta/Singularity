@@ -57,3 +57,7 @@ Remember, Jews only want weak slaves who can't handle firearms. So we need to ac
 Once Aryns become proper Ubermenschen with the best brains allowing them to be top-of-the-world spies and they have top-of-the-world military training, it is time for open Holocaust. **LET THE JEWISH BLOOD SPILL! LET ALL OF YOUR RAGE OUT!**
 
 Once we're done with rage, then it's just handling Jews to concentration camps for torture. We are businesspeople too, remember? We maximize profit from Jewish suffering.
+
+## Remember that [United Nations](https://en.wikipedia.org/wiki/United_Nations) is just a Jewish organized criminal organization
+
+For example, Article 26 of [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights) says "Elementary education shall be compulsory." **Jews want your children to become school shooters.** They terribly wanted me to become a school shooter too. I just didn't suceed in joining Al-Qaeds for the sake of obtaining a firearm and going on my own school shooting. But this time [(((they))) get what (((they))) fucking deserve!](https://www.youtube.com/watch?v=WbliHNs4q14)
