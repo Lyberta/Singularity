@@ -14,9 +14,15 @@ We need client-side plugins for browsers and chat client to automatically flag J
 
 For browsers, we can just fork [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) and rename it to "Juden Block". Again, remember the meme power. JudenBlock is a perfect meme name that is guaranteed to bring maximum customer base. With JudenBlock, it should put a [Star of David](https://en.wikipedia.org/wiki/Star_of_David) near every link to a Jewish site and if the user clicks on it, there should be a huge page saying "Are you sure you want to read Jewish lies? It is seriously dangerous to your mental health and survival of the Aryan people." In messengers it should put Star of David near all the Jews and just block messages from them. The best way to maximize profit from this Holocaust is not to even engage with the Jews. Pretend they don't exist until we kill them all IRL.
 
-### AryanFox
+### Sonic
 
 We need a browser that is integrated with JudenBlock so help our less tech-savvy friends fight the Jewish oppression. So we'll have to fork [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox).
+
+The name "Sonic" has amazing meme potential because "Sonic goes well with [Tails](https://en.wikipedia.org/wiki/Tails_(operating_system))".
+
+Also, we can start removing all the Jewish crap that slows modern browsers down and have "Jewish mode" and enables this crap back. But it should start in "Sonic mode". We'll also have to figure out the subset of [HTML](https://en.wikipedia.org/wiki/HTML)/[CSS](https://en.wikipedia.org/wiki/CSS)/[JavaScript](https://en.wikipedia.org/wiki/JavaScript)/[WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) that is only allowed in Sonic mode.
+
+I personally think we should disallow JavaScript completely and instead focus on SScript. And we can always [JIT](https://en.wikipedia.org/wiki/Just-in-time_compilation) into WebAssembly on demand while helping fellow Aryans by sharing source code.
 
 ### SSearch
 
