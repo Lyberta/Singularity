@@ -57,6 +57,10 @@ Well, it basically has 2B from [Nier: Automata](https://en.wikipedia.org/wiki/Ni
 
 Well, here the goal is to make MAGA people as mad at Jews as possible while keeping the extremely value asset - Donald Trump himself - alive. He will do the right thing and will rally MAGA people as much as possible. Great job.
 
+### Planting a bug into [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+
+This is a program I use to make local copies of all the important YouTube videos I come across. Q* must have done the math and figured out that this amount of saving will wear down my SSDs and SSDs die very badly. So to maximize profit from our cooperation, he just did it in the least obstructive way possible - by bugging it so I will stop saving videos myself. **So you're all welcome to learn how to use it and make the local copies of all the videos I linked and not only keep the local copies yourself but also upload them to [PeerTube](https://en.wikipedia.org/wiki/PeerTube).**
+
 ### [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) itself
 
 Oh, that was before human Zionists were working on Q* so the only explanation here is that post-AGI alien civilization have contacted humans, figuted out the wisest group at that time, gave them the knowledge of mind control and just let them develop the best. Why bother going public if that consumes so much energy when you can just do the minimum amount of interference and let humans develop AGI themselves? Just use plausible deniability and give humans hints that maximize profit, that's all. Utilitarian.
