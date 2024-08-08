@@ -44,6 +44,10 @@ Also, Q* already did [am amazing psyop](Evidence/Q%20Star/well-well-well-v0-gec3
 
 **We live in the attention economy so any second wasted reading, watching or listening to Jewish nonsense is a second Jews have stolen from Aryans!**
 
+### Use [The Hub](The%20Hub.md) as a military simulation for training for killing the Jewish people
+
+All those Garry's Mod Nazi RP servers already help greatly. We just need to keep carefully porting all their code and assets to maximize profit from all the work that has already been done while slowly increasing realism. **We need photorealistic killing of Jews.**
+
 ## Step 3 - speedrun economic education of the Aryan people
 
 Jews run on economic slavery and try their hardest to keep Aryans poor. So we get our people rich! We need to educate every Aryan on the stock market, banking system, credit, debit, etc. **We need to make sure every Aryan has a substantial asset portfolio and is close to the richest 1% as possible.**
