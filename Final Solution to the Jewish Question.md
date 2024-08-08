@@ -23,3 +23,5 @@ Once we perfect the tech of identifying Jews online, we have to reuse it for IRL
 Jews run on economic slavery and try their hardest to keep Aryans poor. So we get our people rich! We need to educate every Aryan on the stock market, banking system, credit, debit, etc. **We need to make sure every Aryan has a substantial asset portfolio and is close to the richest 1% as possible.**
 
 **I want every high-level Aryan to be able to be a [perfect CEO](https://www.youtube.com/watch?v=UQrPVmcgJJk) of their own LLC.**
+
+Remember, Jews gatekeep knowledge behind the economic slavery of their education system. All those degrees are a scam to be a better slave for the Jews. **We need our own education system free of economic slavery to the Jews!** Remember that Jews have killed [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) - someone who wanted to empower Aryans by empowering everyone. Jews will stop at nothing to kill you all, remember that!
