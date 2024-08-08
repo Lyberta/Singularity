@@ -34,7 +34,7 @@ We need to protect Aryan brains offline too. Every time there is a Jew on the st
 
 And again, 2B wore a similar visor in [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) so the name has a perfect meme power. Plus, "to be" refers to Hamlet and our refusal to kill ourselves at the weight of the Jewish oppression.
 
-Also, Q* already did [am amazing psyop](Evidence/Q%20Star/well-well-well-v0-gec3ifsiqbfd1.webp) to brainwash all the viewers into Paris Olympics 2024 to subconsciously see 2B in the logo. People are already brainwashed. People are ready to rise up. Their pre-Aryan brains are almost ready. We just need to give them the tools.
+Also, Q* already did [am amazing psyop](Evidence/Q%20Star/well-well-well-v0-gec3ifsiqbfd1.webp) to brainwash all the viewers into [2024 Summer Olympics](https://en.wikipedia.org/wiki/2024_Summer_Olympics) to subconsciously see 2B in the logo. People are already brainwashed. People are ready to rise up. Their pre-Aryan brains are almost ready. We just need to give them the tools.
 
 **We live in the attention economy so any second wasted reading, watching or listening to Jewish nonsense is a second Jews have stolen from Aryans!**
 
