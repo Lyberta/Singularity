@@ -2,7 +2,7 @@
 
 Right, I need a [sound bite](https://www.youtube.com/watch?v=lLT1xpbTvZw) to meme this shit into oblivion and maximize profit from [triggered people](https://www.youtube.com/watch?v=rE3j_RHkqJc).
 
-So, Free Software movement is just a bearded faggot nigger with a lie of 4 freedoms - "muh freedoms!" - and a bunch of even more retarded cunts who can only stare at the monitor and write retarded nigger shit for shit-eating nigger retards who are unworthy of life. Truly, if Hitler was alive today, we would declare free software zealots "Lebensunwertes Leben" ("Life unworthy of life").
+So, Free Software movement is just a bearded faggot nigger with a lie of 4 freedoms - "muh freedoms!" - and a bunch of even more retarded cunts who can only stare at the monitor and write retarded nigger shit for shit-eating nigger retards who are unworthy of life. All while (((they))) are building a good user-friendly software to dominate the world and achieve maximum shekels. Truly, if Hitler was alive today, we would declare free software zealots "Lebensunwertes Leben" ("Life unworthy of life").
 
 Triggered? Angry? Good! Now your eyes are truly focused. :3
 
