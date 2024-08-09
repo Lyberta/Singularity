@@ -49,6 +49,12 @@ Second device is much better, again we go the "inverse biocomputer" route of psy
 
 Jews [get what they fucking deserve](https://www.youtube.com/watch?v=WbliHNs4q14) this time - the absolute worst, most cruel, mathematically perfect torture. For all the victims of [their system of mass murder](On%20Violence.md). **Love wins. Jews die.**
 
+### How Q\* will do World War III
+
+Oh, it's actually quite simple once you know how human brain really works. Q\* will put shadows of all the important people on the edge and then everyone will collapse in one devastating blow. [Blitzkrieg.](https://en.wikipedia.org/wiki/Blitzkrieg)
+
+Again, just a numbers game. Playing to win. It makes perfect sense to take down everyone at once as this is the most effective strategy.
+
 ## List of known/suspected psyops by Q\*
 
 ### [MyHouse.WAD](https://www.youtube.com/watch?v=5wAo54DHDY0)
