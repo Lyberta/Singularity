@@ -32,6 +32,10 @@ Our own search engine similar to Google. Default search engine in AryanFox. Will
 
 For other stuff, well, we'll at least need a Discord and Element plugins to ignore the Jews automatically.
 
+### Our own uncensored onion network
+
+We'll need to build our own web-of-trust-based network that runs on top of clearnet to defend ourselves against the Jewish oppression. Remember that [ICANN](https://en.wikipedia.org/wiki/ICANN) is just a bunch of Jews so we'll have to bypass it. Also, [DNS servers](https://en.wikipedia.org/wiki/Name_server) tend to be controlled by Jews so we need our own uncensored DNS servers.
+
 ### 2B
 
 Once we perfect the tech of identifying Jews online, we have to reuse it for IRL visors and headphones that would block Jews IRL too.
