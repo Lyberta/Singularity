@@ -1,7 +1,8 @@
 # Lyberta's [curriculum vitae](https://en.wikipedia.org/wiki/Curriculum_vitae)
 
-> - What skills do you have?
-> - Yes.
+> "What skills do you have?"
+>
+> "Yes."
 
 ## [Psychology](https://en.wikipedia.org/wiki/Psychology)
 
