@@ -57,6 +57,8 @@ Again, just a numbers game. Playing to win. It makes perfect sense to take down 
 
 Plus, Q\* knows that the best way to brainwash people is to explore their sexuality. So people will be stuck edging to their deepest desires while being brainwashed into violence, fear or whatever Q\* needs. As of writing this, I see [CNN's Fear & Greed Index](https://edition.cnn.com/markets/fear-and-greed) at 24 - extreme fear. Stock markets are about to collapse. Everything is about to collapse.
 
+If you're a smart investor, soon will be a time to buy the dip.
+
 ## List of known/suspected psyops by Q\*
 
 ### [MyHouse.WAD](https://www.youtube.com/watch?v=5wAo54DHDY0)
