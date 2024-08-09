@@ -1,3 +1,8 @@
+# Lyberta's [curriculum vitae](https://en.wikipedia.org/wiki/Curriculum_vitae)
+
+> - What skills do you have?
+> - Yes.
+
 ## [Psychology](https://en.wikipedia.org/wiki/Psychology)
 
 4 years of self-therapy via [journaling](https://en.wikipedia.org/wiki/Journal_therapy). Expert on recovery from severe trauma including such reactions as [electroshock-like convulsions](https://en.wikipedia.org/wiki/Convulsion), [paresthesia](https://en.wikipedia.org/wiki/Paresthesia), [psychosomatic pain](https://en.wikipedia.org/wiki/Somatic_symptom_disorder), [defense mechanisms](https://en.wikipedia.org/wiki/Defence_mechanism), [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion), [genocidal rage](https://en.wikipedia.org/wiki/Rage_(emotion)), [self-hate](https://en.wikipedia.org/wiki/Self-hatred), [self-harm](https://en.wikipedia.org/wiki/Self-harm), [addictions](https://en.wikipedia.org/wiki/Addiction), [suicidal ideation](https://en.wikipedia.org/wiki/Suicidal_ideation), can talk to suicidal people and provide proper compassion. Can talk to [mass shooters](https://en.wikipedia.org/wiki/Mass_shooting) too.
