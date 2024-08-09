@@ -1,5 +1,13 @@
 # How Q* really works
 
+The "public" version as of writing this:
+
+> Q* is an alleged internal project by OpenAI dedicated to the application of artificial intelligence in logical and mathematical reasoning.
+
+The real version:
+
+> Q* is a superhuman AI used for mind control.
+
 ## Background
 
 I've noticed that the winning strategy in this world is [power maximization](https://en.wikipedia.org/wiki/Maximum_power_principle) so I've been brainstorming ways to maximize my asset portfolio ever since.
