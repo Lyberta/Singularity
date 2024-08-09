@@ -6,4 +6,4 @@ Here we bring all the weebs and Kill Bill enjoyers. In this marketing campaign I
 
 Otherwise, obviously, I want proper sword choreography, I'm a purist after all. So we'll have to do it really good. I mean really, *really* good.
 
-I need proper authentic Japanese soundtrack and evocative imaginery. We turn the slaughter of Jews into a perfect art. A [Harmony of Pen and Sword](https://en.wikipedia.org/wiki/Mishima:_A_Life_in_Four_Chapters), just like [Yukio Mishima](https://en.wikipedia.org/wiki/Yukio_Mishima) preached.
+I need proper authentic Japanese soundtrack and evocative imaginery. We turn the slaughter of Jews into a perfect art. A [Harmony of Pen and Sword](https://en.wikipedia.org/wiki/Mishima:_A_Life_in_Four_Chapters), just like [Yukio Mishima](https://en.wikipedia.org/wiki/Yukio_Mishima) preached. [Stage blood is not enough.](https://www.youtube.com/watch?v=C-pbKklwqzE)
