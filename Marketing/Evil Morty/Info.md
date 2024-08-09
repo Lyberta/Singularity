@@ -8,7 +8,7 @@ Lyberta: "In their minds, they're the underdogs. And that's how they justify thi
 
 Jew: "Morty, I'm not responsible for every fucked-up Jew out there."
 
-Lyberta: "They literally all say that. They all have that excuse. It's part of their system. None of them have to be responsible. They're all victims of themselves. Oh, it's so hard to be a genius. Couldn't you just die?"
+Lyberta: "They literally all say that. They all have that excuse. It's part of their system. None of them have to be responsible. They're all victims of themselves. Oh, it's so hard to be a Jew. Couldn't you just die?"
 
 Morty: "Well, what are *you doing about it?*"
 
